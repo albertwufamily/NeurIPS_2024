@@ -1,0 +1,1648 @@
+" ISSN 1936- 5349 (print)  
+ ISSN 1936- 5357 (online)  
+ 
+HARVARD  
+JOHN M. OLIN CENTER FOR LAW, ECONOMICS , AND BUSINESS  
+ 
+ 
+   
+FOUNDATIONS OF CORPORATE LAW  
+ 
+John Armour  
+Henry Hansmann  
+Reinier Kraakman  
+Mariana Pargendler  
+ 
+   
+Discussion Paper No. 902 
+ 
+04/2017 
+ 
+Harvard Law School  
+Cambridge, MA 02138  
+    
+This paper can be downloaded without charge from:  
+ 
+The Harvard John M. Olin Discussion Paper Series:  
+http://www.law.harvard.edu/programs/olin_center   
+ 
+The Social Science Research Network Electronic Paper Collection:  
+https://ssrn.com/abstract=2906054  
+ 
+This pape r is also Discussion Paper 2017- 8 of the  
+Harvard Law School Program on Corporate Governance  
+ "
+" 
+ Foundations of Corporate Law  
+John Armour, Henry Hansmann , 
+Reinier Kraakman  and Mariana Pargendler  
+ 
+January 2017  
+ 
+Abstract  
+ 
+This paper  is the first chapter of the third edition of The Anatomy of Corporate Law: A 
+Comparative and Functional Approach , by Reini er Kraakman, John Armour, Paul 
+Davies, Luca Enriques, Henry Hansmann, Gerard Hertig, Klaus Hopt, Hideki Kanda 
+Mariana Pargendler, Georg Ringe, and Edward Rock (Oxford University Press, 
+2017). The book as a whole provides a functional analysis of corporate (or company) 
+law in Europe, the U.S., and Japan. Its organization reflects the structure of corporate 
+law across all jurisdictions, while individual chapters explore the diversity of 
+jurisdictional approaches to the common problems of corporate law. In its  third 
+edition, the book has been significantly revised and expanded.  
+As the introductory  chapter to the book, this paper introduces the book’s analytic 
+framework, which focuses on the common structure of corporate law across different 
+jurisdictions as a r esponse to fundamentally similar legal and economic problems. It 
+first details the economic importance of the corporate form’s hallmark features: legal 
+personality, limited liability, transferable shares, delegated management, and investor 
+ownership. The m ajor agency problems that attend the corporate form and that, 
+therefore, must be addressed, are identified. The chapter next considers the role of 
+law and contract in structuring corporate affairs, including the function of mandatory 
+and default rules, sta ndard forms, and choice of law, as well the debate about the 
+proper role of corporate law in promoting overall social welfare. While almost all legal 
+systems retain the core features of the corporate form, individual jurisdictions have 
+made distinct choice s regarding many other aspects of their corporate laws. The 
+forces shaping the development of corporate law, including evolving patterns of 
+share ownership, are examined.  
+ 
+Keywords: legal personality; limited liability; transferable shares; delegated 
+mana gement; investor ownership; agency problems; default and mandatory rules; 
+choice of law; share ownership  
+ 
+JEL Classification: D23, G32, G34, G38, K22, M14  "
+" 
+  
+ 
+ 
+1.1 Introduction  
+What is the common  structure  of corporate ( or company ) law across different 
+jurisdictions? Although this question is rarely asked by corporate law scholars, 
+it is critically important for the comparative investigation of the subject . 
+Existing  scholarship often emphasizes the divergence among European, 
+American, Japanese , and emerging  market corporations in terms of corporate 
+governance, share ownership, capital markets, and business culture.1 But, 
+despite  the very real differences across jurisdictions along these dimensions, 
+the underlying uniformity of the corporate form is at least as  impressive. 
+Business corporations have a fundamentally similar set of legal 
+characteristics —and face a fundamentally similar set of legal problems —in all 
+jurisdictions.  
+Consider, in this regard, the basic legal characteristics of the business 
+corporation.  To anticipate our discussion below, there are five of these 
+characteristics, most of which will be easily recognizable to anyone familiar 
+with business affairs. They are: legal personality, limited liability, transferable 
+shares, delegated management unde r a board structure, and investor 
+ownership. These characteristics respond —in ways we will explore —to the 
+economic exigencies of the large modern business enterprise. Thus, 
+corporate law everywhere must, of necessity, provide for them. To be sure, 
+there ar e other forms of business enterprise that lack one or more of these 
+characteristics. But the remarkable fact —and the fact that we wish to stress —
+is that, in market economies, almost all large -scale business firms adopt a 
+legal form that possesses all five of the basic characteristics of the business 
+corporation. Indeed, most small jointly  owned firms adopt this corporate form 
+as well, although sometimes with deviations from one or more of the five basic 
+characteristics to fit their special needs.  
+It follows  that a principal function of corporate law is to provide 
+business enterprises with a legal form that possesses these five core 
+attributes. By making this form widely available and user -friendly, corporate 
+law enables business participants  to transact easi ly through the medium of 
+the corporate entity, and thus lowers the costs of conducting business. Of 
+course, the number of provisions that the typical corporation statute devotes 
+                                                           
+1 See e.g.  Ronald J. Gilson and Mark J. Roe, Understanding the Japanese Keiretsu: 
+Overlaps Between Corporation Governance and Industrial Organization , 102 YALE LAW 
+JOURNAL 871 (1993); Bernard S. Black and John C. Coffee, Hail Britannia? Institutional 
+Invest or Behavior Under Limited Regulation , 92 MICHIGAN LAW REVIEW 1997 (1994);  VARIETIES 
+OF CAPITALISM (Peter A. Hall and David Soskice eds., 2001); Mark J. Roe, POLITICAL 
+DETERMINANTS OF CORPORATE GOVERNANCE (2003);  CORPORATE GOVERNANCE IN CONTEXT : 
+CORPORATION S, STATES , AND MARKETS IN EUROPE , JAPAN , AND THE US (Klaus J. Hopt et al 
+eds., 2005); COMPARATIVE COMPANY LAW: A CASE-BASED APPROACH  (Mathias  Siems and 
+David Cabrelli eds. , 2013).   "
+" 
+ to defining the corporate form is likely to be only a small part of the statut e as 
+a whole.2 Nevertheless, these are the provisions that comprise t he legal core  
+of corporate law that is shared by every jurisdiction. In this chapter, we briefly 
+explore the contracting efficiencies that accompany these five features of the 
+corporate f orm, and that, we believe, have helped to propel the worldwide 
+diffusion of the corporate form.  
+However, our principal focus  in this book is not on the basic attributes 
+that define the corporate form . Rather, it is on a second, equally important 
+function o f corporate law: namely, reducing the ongoing costs of organizing 
+business through the corporate form . Corporate  law does this by facilitating 
+coordination between participants in corporate enterprise, and by reducing 
+the scope for value -reducing forms of opportunism among different 
+constituencies. As we outline in Section 1.2, corporate laws everywhere 
+share core features which can be understood as serving to reduce the costs 
+for participants of organizing their activities in business firms.3 
+Most of corpo rate law can be understood as responding to three 
+principal sources of opportunism  that are endemic to such organization : 
+conflicts between managers and shareholders, conflicts between controlling 
+and non -controlling shareholders , and conflicts between sha reholders and 
+the corporation’s other contractual counterparties , including particularly 
+creditors and employees. All three of these generic conflicts may usefully be 
+characterized as what economists call ‘agency problems.’ Chapter 2 
+examines these three a gency problems, both in general and as they arise in 
+the corporate context, and surveys the range of legal strategies that can be 
+employed to tackle  those problems.  
+The reader might object that these three types of coordination costs 
+and agency conflicts a re not uniquely ‘corporate’. After all, any form of jointly  
+owned enterprise faces coordination costs and engenders  conflicts among its 
+owners, managers, and third -party contractors. We agree; insofar as the 
+corporation is only one of several legal forms f or the joint ly owned firm, it 
+faces the same generic functional challenges  that confront all joint ly owned 
+firms. Nevertheless, the particular characteristics of the corporate form matter 
+a great deal, since it is the form chosen by most large -scale enterp rises —and, 
+as a practical matter, the only form that firms with widely dispersed ownership 
+can choose in many jurisdictions.4 In our view, this is because its particular 
+characteristics make it uniquely effective at minimizing coordination costs. 
+Moreover,  these same  features determine the particular contours of its 
+                                                           
+2 We use the term ‘corporation statute’ to refer to the general law that governs corporations, 
+and not to a corporation’s individual charter (or ‘articles of incorporation’, as that document is 
+sometimes also called).  
+3 These include  the costs of searching for contracting partners  and negotiating and drafting 
+the relevant agreements . Although such costs are often referred to as ‘transaction costs’, we 
+eschew this term because it is also used more broadly in other contexts, rendering it a fertile 
+source of co nfusion.  
+4 This is because in most jurisdictions, only firms taking the corporate form may raise equity 
+finance from capital markets . However, there are exceptions to this general proposition. F or 
+example , in the U.S., the equity securities of so -called ‘master’ lim ited partnerships and 
+limited liability companies may be registered for public trading.  "
+" 
+ agency problems. To take an obvious example, the fact that shareholders 
+enjoy limited liability —while, say, general partners in a partnership do not —
+has traditionally made creditor protection fa r more salient in corporate law 
+than it is in partnership law. Similarly, the fact that corporate investors may 
+trade their shares is the foundation of the anonymous trading stock market —
+an institution that has encouraged the separation of ownership from c ontrol, 
+and so has sharpened the management -shareholder agency problem.  
+In this book, we explore the role of corporate law in minimizing 
+coordination and agency problems —and thus, making the corporate form 
+practicable —in the most important categories of co rporate actions and 
+decisions. More particularly, Chapters 3  to 9 address seven categories of 
+transactions and decisions that involve the corporation, its owners, its 
+managers, and the other parties with whom it deals. Most of these categories 
+of firm acti vity are, again, generic, rather than uniquely corporate. For 
+example, Chapters 3 and 4 address governance mechanisms that operate 
+over the firm’s ordinary business decisions, whil e Chapter 5 turns to the 
+checks that operate on the corporation’s transactio ns with creditors. As before, 
+however, although similar agency problems arise in similar contexts across all 
+forms of joint ly owned enterprise, the response of corporate law turns in part 
+on the unique legal features that characterize the corporate form.  
+Taken together, the latter seven chapters of our book cover nearly all 
+of the important prob lems in corporate law. In each c hapter, we describe how 
+the basic  coordination costs and  agency problems of the corporate form 
+manifest themselves in a given categor y of corporate activity, and then 
+explore the range of alternative legal responses that are available. We 
+illustrate these alternative approaches with examples from the corporate law s 
+of various prominent jurisdictions. We explore the patterns of homogenei ty 
+and heterogeneity that appear. Where there are significant differences across 
+jurisdictions, we seek to address both the sources and the consequences of 
+those differences. Our examples are drawn principally from a handful of major 
+representative jurisdi ctions,  which we label our ‘core jurisdictions’. These are  
+Brazil , France, Germany, Italy, Japan, the UK, and the U.S.,  though we 
+sometimes  make incidental reference to the laws of other jurisdictions to 
+make particular  points.  We do not —and cannot, in a s hort book —attempt to 
+be comprehensive in our coverage of the substantive law; rather we make 
+reference to the laws of these jurisdictions as appropriate to illustrate and 
+develop analytic propositions. In focusing on the jurisdictions we know best, 
+an elem ent of subjectivity is of course introduced. This reflects a heuristic 
+endeavor on our part: the goal is not so much to provide a definitive account 
+of corporate laws anywhere (let alone everywhere), but a common language 
+for understanding them.  
+In emphas izing a strongly functional approach to the issues of 
+comparative law, this book differs from some of the more traditional 
+comparative law scholarship, both in the field of corporate law and 
+elsewhere.5 We join an emerging tendency in comparative law schol arship by 
+                                                           
+5 Compare, e.g., THE LEGAL BASIS OF CORPORATE GOVERNANCE IN PUBLICLY HELD 
+CORPORATIONS , A COMPARATIVE APPROACH  (Arthur R. Pi nto and Gustavo Visentini eds. , 
+1998); Gunth er H. Roth and Peter Kindler, THE SPIRIT OF CORPORATE LAW (2013).  "
+" 
+ seeking to give a highly integrated view of the role and structure of corporate 
+law that provides a clear framework within which to organize an 
+understanding of individual systems, both alone and in comparison with each 
+other.6 Moreover, while co mparative law scholarship often has a tendency to 
+emphasize differences between jurisdictions, our approach is to highlight  
+similarities  as well . Doing so illuminates an und erlying commonality of 
+structure that transcends national boundaries. It also provi des an important 
+perspective on the basis for the international cross -fertilization  of corporate 
+law that has become more common in the wake of the growth of global 
+economic activity.   
+We realize that the term ‘functional’, which we have used here and in 
+our title, means different things to different people, and that some of the uses 
+to which that term has been put in the past —particularly in the field of 
+sociology —have made it justifiably suspect. It would perhaps be more 
+accurate to call our approach ‘eco nomic’ rather than ‘functional’, though the 
+sometimes tendentious use of economic argumentation in legal literature to 
+support particular (generally laissez -faire) policy positions, as well as the 
+tendency in economic analysis to neglect non -pecuniary moti vations or 
+assume an unrealistic degree of rationality in human action, have also caused 
+many scholars —particularly outside the United States —to be as wary of 
+‘economic analysis’ as they are of ‘functional analysis’. For the purposes at 
+hand, however, we n eed not commit ourselves on fine points of social science 
+methodology. We need simply note that the exigencies of commercial activity 
+and organization present practical problems that are rough ly similar in market 
+economies throughout the world. Our analysi s is ‘functional’ in the sense that 
+we organize discussion around the ways in which corporate laws respond to 
+these problems, and the various forces that have led different jurisdictions to 
+choose roughly similar —though by no means always the same —solution s to 
+them.  
+That is not to say that our objective here is just to explore the 
+commonality of corporate law across jurisdictions. Of equal importance, we 
+wish to offer a common language  and a general analytic framework  with 
+which to understand the purposes t hat can potentially be served by corporate 
+law, and with which to compare and evaluate the efficacy of different legal 
+regimes in serving those purposes.7 Indeed, it is our hope that the analysis 
+offered in this book will be of use not only to students of comparative law, but 
+also to those who simply wish to have a more solid framework within which to 
+view their own country’s corporation law.  
+                                                           
+6 Other examples of this approach include John Armour et al., PRINCIPLES OF FINANCIAL 
+REGULATION (2016); Gregor B achmann et al., REGULATING THE CLOSED CORPORATION  (2012); 
+Curtis Milhaupt and  Katharina Pistor, LAW AND CAPITALISM  (2008) .  
+7 In very general terms, our approach echoes that taken by Robert Clark in his important 
+treatise, CORPORATE LAW (1986), and Frank Easterbrook and Daniel Fischel, in their 
+discussion of U.S. law,  THE ECONOMIC STRUCTURE OF CORPORATE LAW (1991). However, our 
+analysis differs from —and goes beyond —that offered by these and other commentators in 
+several key respects. Most obviously, we both present a comparative analysis that addresses 
+the corporate law of multiple jurisdictions and provide an integrated functional overview that 
+stresses the agency problems at the core of corporate law, rather than focusing on more 
+particular legal institutions and solutions.  "
+" 
+ Nor does emphasizing similarities in underlying structure mean 
+ignoring differences between countries’ corporate law s. Even if, as we think, 
+corporate laws everywhere respond to similar economic problems, there may 
+be differences in the way they do so, often reflecting local variety in the way 
+other aspects of the system of economic production are organized.8 The basis 
+for such differences in corporate law rules is consequently illuminated by 
+reference to the broader economic environment. Yet in other cases, 
+differences may result from the various concerns of domestic politics  over 
+distribution or from diverse interest g roup dynamics. Our unitary account 
+cannot explain the presence of such differences, but it does have implications 
+for their persistence. To the extent that such matters impede corporate law’s 
+ability to respond to economic exigencies, they will in time fac e economically 
+motivated pressure for reform.  
+That said , we take no strong stand here in the enduring debate on the 
+extent to which corporate law is or should be ‘converging’, much less on to 
+what it might converge.9 That is a subject on which reasonable m inds 
+(including, indeed, the authors of this book) can reasonably disagree .10 
+Rather, we are seeking to set out a conceptual framework and a factual basis 
+with which that and other important issues facing corporate law can be 
+fruitfully explored.  
+1.2 What Is a Corporation?  
+As anticipated , the five core structural characteristics of the business 
+corporation are: (1) legal personality, (2) limited liability, (3) transferable 
+shares, (4) centralized management under a board structure, and (5) shared 
+owne rship by contributors of equity capital. In virtually all economically 
+important jurisdictions, there is a basic statute that provides for the formation 
+of firms with all of these characteristics. As this pattern suggests, these 
+characteristics have strong ly complementary qualities for many firms. 
+Together, they make the corporation especially  attractive for organizing 
+productive activity. But these characteristics also generate tensions and 
+tradeoffs that lend a distinctively corporate character to the age ncy problems 
+that corporate law must address.  
+                                                           
+8 See Section 1.6. 
+9 See e.g., CONVERGENCE AND PERSISTENCE IN CORPORATE GOVERNANCE (Jeffrey N. Gordon 
+and Mark J. Roe eds. , 2004),  COMPARATIVE CORPORATE GOVERNANCE , A FUNCTIONAL AND 
+INTERNATIONAL ANALYSIS  (Andreas M. F leckner and Klaus J. Hopt eds. , 2013).  
+10 The views of the authors of this chapter are briefly set out in Henry Hansmann and Reinier 
+Kraakman, The End of History for Corporate Law , 89 GEORGETOWN LAW JOURNAL 439 (2001); 
+Henry Hansmann an d Reinier Kraakman, Reflections on the End of History for Corporate 
+Law, in CONVERGENCE OF CORPORATE GOVERNANCE : PROMISE  AND PROSPECTS  (Abdul 
+Rasheed and Toru Yoshikawa eds. , 2012);  John Armour, Simon Deakin, Priya Lele and 
+Mathias Siems, How Do Legal Rules Evolve? Evidence from a Cross -Country Comparison of 
+Shareholder, Creditor, an d Worker Protection 57 AMERICAN JOURNAL OF COMPARATIVE LAW 
+579, 619 -29 (2009) and Mariana Pargendler, Corporate Governance in Emerging Markets , in 
+OXFORD HANDBOOK OF CORPORATE LAW AND GOVERNANCE  (Jeffrey N. Gordon  and Wolf -Georg 
+Ringe eds., 2017 ).  "
+" 
+ 1.2.1  Legal personality  
+In the economics literature, a firm is often characterized as a ‘nexus of 
+contracts’.11 As commonly used, this description is ambiguous. It is often 
+invoked simply to emphasize that most of the important relationships within a 
+firm—including, in particular, those among the firm’s owners, managers, and 
+employees —are essentially contractual in character. This is an important 
+insight, but it does not distinguish firms from other networks of c ontractual 
+relationships. It is perhaps more accurate to describe a firm as a ‘nexus for 
+contracts’, in the sense that a firm serves, fundamentally, as the common 
+counterparty in numerous contracts with suppliers, employees, and 
+customers, coordinating the  actions of these multiple persons through 
+exercise of its contractual rights. The first and most important contribution of 
+corporate law, as of other forms of organizational law, is to permit a firm to 
+serve this coordinating role by operating  as a single  contracting party that is 
+distinct from the various individuals who own or manage the firm. In so doing, 
+it enhances the ability of these individuals to engage together in joint projects.  
+The core element of the firm as a nexus for contracts is what civil  
+lawyers refer to as ‘separate patrimony’. This involves the demarcation of a 
+pool of assets that are distinct from other assets owned, singly or jointly, by 
+the firm’s owners (the shareholders),12 and of which the firm itself, acting 
+through its designated  managers, is viewed in law as being the owner. The 
+firm’s entitlements  of ownership over its designated assets include the rights 
+to use the assets, to sell them, and —of particular importance —to make them 
+available for attachment by its creditors. Convers ely, because these assets 
+are conceived as belonging to the firm, rather than the firm’s owners, they are 
+unavailable  for attachment by the owners’ personal creditors. The core 
+function of this separate patrimony has been termed ‘ entity  shielding ’, to 
+emph asize that it involves shielding the assets of the entity —the 
+corporation —from the creditors of the entity’s owners.13 
+Entity shielding involves two relatively distinct rules of law. The first is a 
+priority rule that grants to creditors of the firm, as secu rity for the firm’s debts, 
+a claim on the firm’s assets that is prior to the claims of the personal creditors 
+of the firm’s owners. This rule is shared by modern legal forms for enterprise 
+                                                           
+11 The c haracterization of a firm as a ‘nexus of contracts’ originates with Michael Jensen and 
+William Meckling, Theory of the Firm: Managerial Behavior, Agency Costs and Ownership 
+Structure , 3 JOURNAL OF FINANCIAL ECONOMICS 305 (1976), building on Armen Alchian a nd 
+Harold Demsetz, Production, Information Costs, and Economic Organization , 62 AMERICAN 
+ECONOMIC REVIEW 777 (1972).  
+12 We use the term ‘owners’ simply to refer to the group who have the entitlement to control 
+the firm’s assets. For an account of how this relates to the legal concept of ‘ownership’ see 
+John Armour and Michael J. Whincop, The Proprietary Foundations of Corp orate Law , 27 
+OXFORD JOURNAL OF LEGAL STUDIES  429, 436 -448 (2007).  
+13 The term ‘entity shielding’ derives from Henry Hansmann, Reinier Kraakman, and Richard 
+Squire, Law and the Rise of the Firm , 119 HARVARD LAW REVIEW  1333 (2006). The centrality 
+of entity s hielding to organizational law is explored in Henry Hansmann and Rei nier 
+Kraakman, The Essential Role of Organizational Law , 110 YALE LAW JOURNAL 387 (2000), 
+where this same attribute was labelled ‘affirmative asset partitioning’.  "
+" 
+ organization, including partnerships.14 The consequence of this prio rity rule is 
+that a firm’s assets are, as a default rule of law,15 automatically made 
+available for the enforcement of contractual liabilities entered into in the name 
+of the firm. 16 By thus bonding the firm’s contractual commitments, the rule 
+makes these c ommitments credible.  
+The second component of entity shielding —a rule of ‘liquidation 
+protection’ —provides that the individual owners of the corporation (the 
+shareholders) cannot withdraw their share of firm assets at will, nor can the 
+personal creditors of  an individual owner foreclose on the owner’s share of firm 
+assets.17 Such withdrawal or foreclosure would force partial or complete 
+liquidation of the firm . So the liquidation protection rule serves to protect the 
+going concern value of the firm against de struction by individual shareholders 
+or their creditors.18 In contrast to the priority rule just discussed , it is not found 
+in some other standard legal forms for enterprise organization, such as the 
+partnership.19 Legal entities, such as the business corpor ation, that are 
+characterized by both these rules —priority for business creditors and 
+liquidation protection —can therefore be thought of as having ‘strong form’ 
+entity shielding, as opposed to the ‘weak form’ entity shielding found in 
+partnerships, which a re usually characterized only by the priority rule and not 
+by liquidation protection.  By isolating the value of the firm from the personal 
+financial affairs of the firm’s owners , strong form entity shielding facilitates 
+tradability of the firm’s shares, wh ich is the third characteristic of the corporate 
+form. 20  
+The benefits of these two rules —creditor priority and liquidation 
+protection —reinforce one another where the ‘assets’ in question comprise 
+                                                           
+14 While even unregistered  common law partnerships are subject to this priority rule, many 
+civil law jurisdictions recognize a class of unregistered ‘partnerships’ that lack this rule of 
+priority. In effect, such partnerships are just special forms for the joint management  of ass ets 
+rather than distinct entiti es for purposes of contracting.  
+15 On default rules, see Section 1.4.1.  
+16 The effect is the same as if the firm’s owners had themselves entered into a joint contract 
+and granted non -recourse security over certain personal assets  to the counterparty, as 
+opposed to transferring those assets to the corporate entity, and then procuring the company 
+to enter into the contract.  
+17 Hansmann and Kraakman, note 13, at 411 –13. 
+18 Edward B. Rock and Michael L. Wach ter, Waiting for the Omelet to Set: Match -Specific 
+Assets and Minority Oppression in Close Corporations , 24 JOURNAL OF  CORPORATION LAW 
+913, 918 –20 (1999); Margaret M. Blair, Locking in Capital: What Corporate Law Achieved for 
+Business Organizers in the Nin eteenth Century , 51 UCLA  LAW REVIEW  387, 441 –9 (2003).  
+19 That said , it is possible in many jurisdictions to effect liquidation protection by agreement 
+amongst the owners of a partnership.  
+20 While strong form entity shielding seems essential for free tradability of shares (see 
+Hansmann and Kraakman, note 13), limited liability does not: so long as shareholder liability 
+for a firm’s debts is pro rata rather than joint and several, free tradability of shares is feasible 
+with unlimited personal shareholder liability  for corporate debts:  see Henry Hansmann and 
+Reinier Kraakman, Toward Unlimited Shareholder Liability for Corporate Torts , 100 YALE LAW 
+JOURNAL  1879 (1991) ; Charles R. Hickson and John D. Turner, The Trading of Unlimited 
+Liability Bank Shares in Nineteenth -Century Ireland: The  Bagehot Hypothesis, 63 JOURNAL OF 
+ECONOMIC HISTORY 931 (2003).  "
+" 
+ contractual agreements.21 An increasingly important part of a firm’s value 
+creation comes from the interaction of the various contracts it has negotiated. 
+These two rules assure counterparties that their performance will be delivered 
+by reference to the value generated by that bundle  of contracts and the 
+associated  assets, amongst which there will typically be complementarities. 
+Not only does this make it easier to negotiate such contracts, but it also 
+facilitates liquidity on the part of shareholders. It is far easier for the owner of a 
+corporation to transfer her shares than it would be for a sole proprietor to 
+transfer her contracts.  
+For a firm to serve effectively as a contracting party, two other types of 
+rules are also needed. First, there must be rules specifying to third parties the 
+individuals who have autho rity to buy and sell assets in the name of the firm, 
+and to enter into contracts that are bonded by those assets.22 While  
+participants in a firm are to a large extent free to specify the delegation of 
+authority by contract amongst themselves, background rul es are needed —
+beyond such contractual agreement —to deal with situations where agents 
+induce third parties to rely on the mere appearance of their authority. Such 
+rules differ according to organizational form. The particular rules of authority 
+governing the  corporation are treated below as a separate core characteristic, 
+‘delegated management’. They provide  that a subset of corporate managers 
+(such as the board of directors or certain officers) , as opposed to individual 
+owners, has power to bind the company in contract.23 
+Second, there must be rules specifying the procedures by which both 
+the firm and its counterparties can bring lawsuits on the contracts entered into 
+in the name of the firm. Corporations are subject to rules that make such suits 
+easy to bring  as a procedural matter. In particular, they eliminate any need to 
+name, or serve notice on, the firm’s individual owners —procedures that 
+plagued  the Anglo -Americ an partnership until the late nineteen th century.  
+The outcomes achieved by each of these three  types of rules —entity 
+shielding, authority, and procedure —require dedicated legal doctrines to be 
+effective in the sense that, absent such doctrine s, they could not be replicated 
+simply by contracting among a business’s owners and their suppliers and 
+customers. That is, the law here serves to reduce the costs of doing business. 
+Entity shielding doctrine is needed to create common expectations, among a 
+firm and its various present and potential creditors, concerning the effect that a 
+contract between a firm  and one of its creditors will have on the security 
+available to the firm’s other creditors.24 Rules governing the allocation of 
+                                                           
+21 Kenneth Ayotte and Henry Hansmann, Legal Entities as Transferable Bundles of Contracts , 
+111 MICHIGAN LAW REVIEW 715 (2013).  
+22  Armour and Whincop, note 12, at 441–2. 
+23 Associated rules —such as the doctrine of ultra vires —may also prescribe limits as to the 
+extent to which managers may  bind the company in contract.  
+24 To establish the priority of business creditors by contract, a firm’s owners would have to 
+contrac t with its business creditors to include subordination provisions, with respect to 
+business assets, in all contracts between individual owners and individual creditors. Not only 
+would such provisions be cumbersome to draft and costly to monitor, but they w ould be 
+subject to a high degree of moral hazard —an individual owner could breach her promise to 
+subordinate the claims of he r personal creditors on the firm’s assets with impunity, since this "
+" 
+ authority are needed to establish common expectations as to who has 
+authority to transfer rights relating to corporate assets prior to  entering into a 
+contract for their transfer.25 And procedures for lawsuits need to be specified 
+by the state, whose third -party authority is invoked by those procedures. This 
+need for special rules of law distinguishes these three types of rules from  the 
+other basic elements of the corporate form discussed here, almost all of which 
+could in theory be crafted by contract even if the law did not provide for a 
+standard form of enterprise organization that embodies them.26 
+The concept of the ‘separate lega l personality’ of the corporation, as 
+understood in the legal literature, is in our terms a convenient heuristic formula 
+for describing organizational forms which enjoy the benefit of each of the three 
+foregoing ‘foundational’ rule types. Starting from the  premise that the company 
+is itself a person, in the eyes of the law, it is straightforward to deduce that it 
+should be capable of entering into contracts and owning its own property; 
+capable of delegating authority to agents; and capable of suing and bein g sued 
+in its own name. For expository convenience, we use the term ‘legal 
+personality’ to refer to organizational forms —such as the corporation —that 
+share these three attributes. However, we should make clear that legal 
+personality in the lawyer’s sense i s not in itself an attribute that is a necessary 
+precondition for the existence of any —or indeed all —of these rules,27 but 
+merely a handy label for a package that conveniently bundles them together. 
+Although it is common in the legal literature to extend sy llogistic deduction 
+from the premise of legal personality to the existence of other characteristics of 
+‘personhood’ beyond the three foundational features we have described in this 
+section , such as ethnicity,28 or the protected enjoyment of civil rights,29 we see 
+no functional rationale that compels this.  
+1.2.2  Limited liability   
+The corporate form effectively provides  a default term in contracts between a 
+firm and its creditors whereby the creditors are limited to making claims 
+against assets that are held i n the name of ( or ‘owned by’) the firm itself, and 
+                                                                                                                                                                      
+promise would be unenforceable against personal creditors who w ere not party to the 
+bargain. See Hansmann and Kraakman, note  13, at 407 –9. 
+25 To leave questions of authority to be determined simply by agreement between the owners 
+of the firm will make it costly for parties wishing to deal with the firm to discover whether 
+authority has in fact been granted in relation to any particular tr ansaction. Authority rules must 
+therefore trade off contracting parties’ ‘due diligence’ costs against preserving flexibility for 
+owners to customize their  allocations of authority. See Armour and Whincop, note 12, at 442 –
+7. 
+26 See Hansmann and Kraakman, note  13, at 407 –9. The exception is limited shareholder 
+liability to corporate tort victims. See Section  1.2.2.  
+27 Thus, a common law partnership, which is commonly said by lawyers to lack legal 
+personality, can under English law enjoy each of the three foundational features described in 
+this section: see §§ 31, 33, 39 Partnership Act 1890 (UK); Armour and Whincop, note 12, at 
+460–1; Burnes v. Pennell  (1849) 2 HL Cas 497,  521; 9 ER 1181, 1191; PD 7 A, para. 5A Civil 
+Procedure Rules (UK).  
+28 Richard R.W. Brooks, Incorporating Race , 106 COLUMBIA LAW REVIEW  2023 (2006).  
+29 See Cnty. of Santa Clara v. S. Pac. R.R. Co. , 118 UNITED STATES REPORTS  394 (1886), 
+and, more recently, Burwell v. Hobby Lobby , 134 SUPREME COURT REPORTER  2751 (2014).  "
+" 
+ have no claim against assets that the firm’s shareholders hold in their own 
+names. While t his rule of ‘limited liability’ was not , historically, always 
+associated with the corporate form ,30 the association has over time become 
+nearly universal . This evolution indicates strongly the value of limited liability as 
+a contracting tool and financing device.  
+Limited liability shields the firm’s owners —the shareholders —from 
+creditors’ claims. Importantly, this facil itates diversification .31 With unlimited 
+liability, the downside risk borne by shareholders depends on the way the 
+business is carried on. Shareholders will therefore generally prefer to be 
+actively involved in the running of the business, to keep this risk  under control. 
+This need to be ‘hands -on’ makes investing in multiple businesses difficult. 
+Limited liability, by contrast, imposes a finite cap on downside losses, making 
+it feasible for shareholders to diversify their holdings.32 It lowers the aggregate 
+risk of shareholders’ portfolios, reducing the risk premium they will demand, 
+and so lowers the firm’s cost of equity capital.    
+The ‘owner shielding’ provided by limited liability is the converse of the 
+‘entity shielding’ described above as a component o f legal personality.33 Entity 
+shielding protects the assets of the firm from the creditors of the firm’s 
+owners, while limited liability protects the assets of the firm’s owners from the 
+claims of the firm’s creditors. Together, these forms of asset shieldi ng (or  
+‘asset partitioning’ ) ensure that business assets are pledged as security to 
+business creditors, while the personal assets of the business’s owners are 
+reserved for the owners’ personal creditors.34 As c reditors of the firm 
+commonly have a comparativ e advantage in evaluating and monitoring the 
+value of the firm’s assets , and  an owner’s personal creditors are likely to have 
+a comparative advantage in evaluating and monitoring the individual’s 
+personal assets , such asset shielding can reduce the overall  cost of capital to 
+the firm and its owners.  It also permits firms to isolate different lines of 
+                                                           
+30 For example, limited liability was not a standard feature of the English law of joint stock 
+companies until the mid -nineteen th century, and in California, shareholders bore unlimited 
+perso nal liability for corporation obligations until 1931. See , e.g., Paul L. Davies, GOWER AND 
+DAVIES ’ PRINCIPLES OF MODERN COMPANY LAW 40–6 (6th ed. 1997); Phillip Blumberg, Limited 
+Liability and Corporate Groups , 11 JOURNAL OF CORPORATE LAW 573 (1986).  
+31 Henry Ma nne, Our Two Corporation Systems: Law and Economics, 53 VIRGINIA LAW 
+REVIEW  259, 262 (1967).   
+32 ‘Unlimited liability’ would ordinarily be joint and several amongst business owners. In terms 
+of the incentives discussed in the text, a form of liabilit y that  is imposed pro rata  to the number 
+of shares held —but without pre -agreed limitation —falls somewhere between this and the 
+case of fully limited liability. Shareholders with pro rata  liability can reduce their downside 
+exposure either by holding only a small  stake —hence facilitating diversification —or by 
+exerting control over the way the business is run: see Hansmann and Kraakman, note  20.  
+33 Hansmann, Kraakman, and Squire, note  13. Owner shielding established by a rule of 
+limited liability is less fundamental than entity shielding, in the se nse that it can be achieved 
+by contract, without statutory fiat.  
+34 By ‘c reditors’ we mean here all persons who have a contractual claim on the firm, including 
+employees, suppliers, and customers.  "
+" 
+ business —and focus creditors’ monitoring efforts accordingly —by 
+incorporating separate subsidiaries.35 
+We should emphasize that, when we refer to limited liabil ity, we mean 
+specifically limited liability in contract —that is, limited liability to creditors who 
+have contractual claims on the corporation. The compelling reasons for limited 
+liability in contract generally do not extend to limited liability to persons  who 
+are unable to adjust the terms on which they extend credit to the corporation, 
+such as third parties who have been injured as a consequence of the 
+corporation’s negligent behavior. Limited liability to such persons is arguably 
+not a necessary feature of the corporate form, and perhaps not even a 
+socially valuable one, as we discuss more thoroughly in Chapter 5.  
+1.2.3  Transferable shares  
+Fully transferable shares in ownership are yet another basic characteristic of 
+the business corporation that distinguishes the corporation from the 
+partnership and various other standard -form legal entities. Transferability 
+permits the  firm to conduct business uninterruptedly as the identity of its 
+owners changes, thus avoiding the complications of member withdrawal that 
+are common among, for example, partnerships, cooperatives, and mutuals.36 
+This in turn enhances the liquidity of share holders’ interests and makes it 
+easier for shareholders to construct and maintain diversified investment 
+portfolios.  
+Transferability of shares is the flipside of the liquidation protection that 
+the corporation’s legal personality assures to its contractual  counterparties. 
+Precisely because counterparties can be confident that the ‘bundle of 
+contracts’ that constitutes the firm will be kept together, there is no need for a 
+rule requiring owners to continue to participate. In the absence of a legal 
+entity —that is, if the owner contracts as sole proprietor —then counterparties 
+would be concerned that assignment of their contracts would reduce the value 
+of their expected performance and hence wish to restrict it. It is precisely for 
+these reasons that all jurisdi ctions have a default rule prohibiting the 
+assignment of most contracts without the prior consent of the other 
+contracting party. At the same time, however, these consent requirements 
+make it more difficult for the owner to sell the business and liquidate her 
+investment. Legal personality addresses these problems by enabling the 
+simultaneous transfer of all, but no less than all, of a firm’s contracts by 
+transferring the corporation’s shares. In other words, it permits the free 
+transferability of all of a f irm’s contracts taken together (‘bundle assignability’), 
+while preserving the general default rule that makes individual contracts non -
+assignable without consent of the contractual counterparty.37  
+                                                           
+35  Of course, asset shielding through group structures can also be used to reduce 
+transparency as to the location of assets. This co ncern underlies an important part of 
+corporate law’s creditor -oriented rules: see Chapter  5.2.1.2.  
+36 See Henry Hansmann, THE OWNERSHIP OF ENTERPRISE  152–5 (1996).  
+37 Ayotte and Hansmann, note 21. To be sure, the parties to indi vidual contracts may —and at 
+times do —opt out of such a general rule of bundle assignability by requiring counterparty 
+consent in the event of a change of control of the firm.  "
+" 
+ Fully transferable shares do not necessarily mean freely tr adable  
+shares. Even if shares are transferable, they may not be tradable without 
+restriction in public markets, but rather just transferable among limited groups 
+of individuals or with the approval of the current shareholders or of the 
+corporation. Free tr adability maximizes the liquidity of shareholdings and the 
+ability of shareholders to diversify their investments. It also gives the firm 
+maximal flexibility in raising capital. For these reasons, all jurisdictions provide 
+for free tradability for at least  one class of corporation. However, free 
+tradability can also make it difficult to maintain negotiated arrangements for 
+sharing control and participating in management. Consequently, all 
+jurisdictions also provide mechanisms for restricting transferability . 
+Sometimes this is done by means of a separate statute, while other 
+jurisdictions simply provide for restraints on transferability as an option under 
+a general corporation statute.  
+As a matter of terminology, we will refer to corporations with freely 
+tradable shares as ‘open’ or ‘public’ corporations, and we will correspondingly 
+use the terms ‘closed’ or ‘private’ corporations to refer to corporations that 
+have restrictions on the tradability of their shares. In addition to this general 
+division, two other  distinctions are important. First, the shares of open 
+corporations may be listed for trading on a  stock  exchange, in which case we 
+will refer to the firm as a ‘listed’ or ‘publicly traded’ corporation, in contrast to 
+an ‘unlisted’ corporation. Second, a c ompany’s shares may be held by a small 
+number of individuals whose interpersonal relationships are important to the 
+management of the firm, in which case we refer to it as ‘closely held’, as 
+opposed to ‘widely held’. It is common to speak, loosely, as if a ll companies 
+can be categorized as either ‘public’ or ‘close d’ corporations, bundling these 
+distinctions together (and the wide ly used term ‘close corporation’ itself 
+embodies this ambiguity, being used sometimes to mean ‘closed corporation’, 
+sometimes to mean ‘closely held corporation’, and sometimes to mean both). 
+But not all companies with free ly tradable shares in fact have widely held 
+share ownership, or are listed on s tock exchanges. Conversely, it is common 
+in some jurisdictions to find corporations which, though their  shares are not 
+freely tradable , have hundreds or thousands of shareholders, and 
+consequently have little in common with a typical closely held corporation that 
+has only a handful of shareholders, some or all of whom are from the same 
+family. 
+Transferability of shares, as we have already suggested, is closely 
+connected both with the liquidation protection that is a feature of strong form 
+legal personality, and with limited liability. Absent either of these featur es, the 
+creditworthiness o f the firm as a whole could change, perhaps fundamentally, 
+as the identity of its shareholders changed. Consequently, the value of shares 
+would be difficult for potential purchasers to judge.38 Ensuring a single price for 
+shares, independent of the wealth o f the purchaser, permits securities markets 
+to aggregate information about the firm’s expected future performance through 
+its stock price.39 Moreover , a seller of shares could impose negative or positive 
+                                                           
+38 Paul Halpern, Michael Trebilcock, and Stuart Turnbull, An Economic Analysis of  Limited 
+Liability in Corporation Law , 30 UNIVERSITY OF TORONTO LAW JOURNAL  117, 136 –8 (1980).  
+39 Ibid. See also Chapter 9.1.1.  "
+" 
+ externalities on his fellow shareholders depending on  the wealth of the person 
+to whom he chose to sell. It is there fore not surprising that strong -form legal 
+personality, limited liability, and transferable shares tend to go together, and 
+are all features of the standard corporate form everywhere. This is i n contrast 
+to the conventional general partnership, which lacks all of these features.  
+1.2.4  Delegated management with a board structure  
+Standard legal forms for enterprise organization differ in their allocation of 
+control rights, including the authority to bind the firm to contracts (discussed 
+above), the authority to exercise the powers grante d to the firm by its 
+contracts, and the authority to direct the uses made of assets owned by the 
+firm.40 For example, the default rule s applicable to general partnership forms 
+usually grant power to a majority of partners to manage the firm in the 
+ordinary course of business , while  more fundamental decisions require 
+unanimity. Both aspects of this allocation are unworkable for business 
+corporations with numerous and constantly changing owners , because of 
+information and coordination costs .41 Consequently, cor porate law typically 
+vests principal authority over corporate affairs in a board of directors or similar 
+body  that is periodically elected, exclusively or primarily, by the firm’s 
+shareholders. More specifically, business corporations are distinguished by a 
+governance structure in which all but the most fundamental decisions are 
+generally delegated to a board of directors that has four basic features.  
+First, the board is, at least as a formal matter, separate from the 
+operational managers of the corporation .42 The legal distinction between them 
+formally divides all corporate decisions that do not require shareholder 
+approval into those requiring approval by the board of directors and those that 
+can be made by the firm’s hired officers on their own authority. This formal 
+distinction between the board and hired officers facilitates a separation 
+between, on the one hand, initiation and execution of business decisions, 
+which is the province of hired officers, and on the other hand the monitoring 
+                                                           
+40 We have already observed that an important precondition for a firm to serve as a nexus for 
+contracts is a rule designating, for  the benefit of third parties, the individu als who have 
+authority to enter into contracts that bind the firm and its assets ( text accompanying notes  22-
+23). Because there is often overlap in pract ice between the scope of such external authority 
+and the internal division of power to control assets, the former, unlike the latter, cannot be 
+based purely on agreement between participants in the firm, but rather must be designated to 
+some degree by rule s of law. The underlying problem being  one of notice to third parties, the 
+law governing closely held firms often leaves these matters to be designated at will in the 
+firm’s charter, while for widely held (and presumably large) firms, in which it is advant ageous 
+to let multiple  shareholders , creditors , and other third parties  know the allocation of authority 
+without incurring the cost of reading the charter, the law is generally more rigid in designating 
+the allocation of authority.  
+41 See Clark, note 7, at 23 -24 and 801 -16; Sofie Cools, The Dividing Line Between 
+Shareholder Democracy and Board Auto nomy , 11 EUROPEAN COMPANY AND FINANCIAL LAW 
+REVIEW  258, 272 -73 (2014).  
+42 The nature of this separation varies according to whether th e board has one or two tiers. In 
+two-tier boards, top corporate officers occupy the board’s second (managing) tier, but are 
+generally absent from the first (supervisor) tier, which is at least nominally independent from 
+the firm’s hired officers (i.e. from  the firm’s senior managerial employees, though employees 
+may sit in the codetermind supervisory boards). See Chapter  3.1. "
+" 
+ and ratification o f decisions, and the hiring of the officers themselves, which 
+are the province of the board. That separation serves as a useful check on the 
+quality of decision -making by hired officers.43  
+Second, the board of a corporation is elected —at least in substanti al 
+part—by the firm’s shareholders. The obvious utility of this approach is to help 
+assure that the board remains responsive to the interests of the firm’s owners, 
+who bear the costs and benefits of the firm’s decisions and whose interests, 
+unlike those of  other corporate constituencies, are not strongly protected by 
+contract. This requirement of an elected board distinguishes the corporate 
+form from other legal forms, such as nonprofit corporations or business trusts, 
+which permit or require a board struct ure, but do not require election of the 
+board by the firm’s (beneficial) owners.  
+Third, though largely or entirely chosen by the firm’s shareholders, the 
+board is formally distinct from them. This separation economizes on the costs 
+of decision -making by av oiding the need to inform the firm’s ultimate owners 
+and obtain their consent for all but the most fundamental decisions regarding 
+the firm. It also permits the board to serve as a mechanism for protecting the 
+interests of minority shareholders and other c orporate constituencies, in ways 
+we explore in Chapter 4.  
+Fourth, the board ordinarily has multiple members. This structure —as 
+opposed, for example, to a structure concentrating authority in a single 
+trustee, as in many private trusts —facilitates mutual mo nitoring and checks 
+idiosyncratic decision -making. However, there are exceptions. Many 
+corporation statutes permit business planners to dispense with a collective 
+board in favor of a single general director or one -person board44—the evident 
+reason being tha t, for a very small corporation, most of the board’s legal 
+functions, including its service as shareholder representative and focus of 
+liability, can be discharged effectively by a single elected director who also 
+serves as the firm’s principal manager.  
+1.2.5 Investor ownership  
+There are two key elements in the ownership of a firm, as we use the term 
+‘ownership’ here: the right to control the firm, and the right to receive the firm’s 
+net earnings. The law of business corporations is principally designed to 
+facilitate the organization of investor -owned firms —that is, firms in which both 
+elements of ownership are tied to investment of equity capital in the firm. More 
+specifically, in an investor -owned firm, both the right to participate in control —
+which genera lly involves voting in the election of directors and voting to 
+approve major transactions —and the right to receive the firm’s residual 
+earnings, or profits, are typically proportional to the amount of capital 
+                                                           
+43 See Eugene Fama and Michael Jensen, Agency Problems and Residual Claims , 26 
+JOURNAL OF LAW AND ECONOMICS 327 (1983).  
+44 This is true  not only of most statutes designed principally for private  corporations, suc h as 
+France’s SARL (Art. L. 223 -18 Code de commerce ) and SAS (Art. L. 227 -6 Code de 
+commerce) and Germany’s GmbH (§ 6 GmbH -Gesetz), but also of the general corporate laws 
+in the U K (§ 154(1) Companies Act 2006), Italy (Art . 2380 –II Civil Code), and the U.S. state of 
+Delaware,  § 141(b) Delaware General Corporation Law.  "
+" 
+ contributed to the firm. Business corporation s tatutes generally  provide for this 
+allocation of control and earnings as the default rule.45 
+There are other forms of ownership that play an important role in 
+contemporary economies, and other bodies of organizational law —including 
+other bodies of corporate  law—that are specifically designed to facilitate the 
+formation of those other types of firms.46 For example, cooperative 
+corporation statutes —which provide for all of the four features of the corporate 
+form just described except for transferable shares, an d often permit the latter 
+as an option as well —allocate voting power and shares in profits 
+proportionally to acts of patronage, which may be the amount of inputs 
+supplied to the firm (in the case of a producer cooperative), or the amount of 
+the firm’s prod ucts purchased from the firm (in the case of a consumer 
+cooperative).  
+The facilitation of investor ownership became a feature of the corporate 
+form only in the second half of the nineteenth century. Until then, both investor 
+and consumer owned firms world wide had been routinely organized under a 
+single corporate form.47 The subsequent specialization toward investor 
+ownership follow ed from the dominant role that investor -owned firms have 
+come to play in contemporary economies, and the consequent advantages o f 
+having a form that is specialized to the particular needs of such firms, and that 
+signals clearly to all interested parties the particular character of the firm with 
+which they are dealing. The dominance of investor ownership among large 
+firms, in turn, reflects several conspicuous efficiency advantages of that form. 
+One is that, among the various participants in the firm, investors are often the 
+most difficult to protect simply by contractual means.48 Another is that 
+investors of capital have (or, through  the design of their shares, can be 
+induced to have) relatively homogeneous interests among themselves, hence 
+reducing —though definitely not eliminating —the potential for costly conflict 
+among those who share governance of the firm.49 
+Specialization to inve stor ownership is yet another respect in which the 
+law of business corporations differs from the law of partnership. The 
+partnership form typically does not presume that ownership is tied to 
+contribution of capital, and though it is often used in that fash ion, it is also 
+commonly employed  to assign ownership of the firm in whole or in part to 
+contributors of labor or of other factors of production —as in partnerships of 
+lawyers and other service professionals, or simply in the prototypical two -
+                                                           
+45 For a recently enacted rule providing for a different default (double voting rights for long er 
+term shareholders in French listed corporations ), see Chapter  4.1.1. 
+46 For a discussion of the varieties of forms of ownership found in contemporary economies, 
+of their respective economic roles, and of the relationship between these forms and the 
+different bodies of organi zational law that govern them, see Hansmann, note 36. 
+47 Henry Hansmann and Mariana Pargendler, The Evolution of Shareholder Voting Rights: 
+Separation of Ownership and Consumption , 123 YALE LAW JOURNAL  948 (2014 ).  
+48 See, e.g., Oliver Williamson, Corporate Governance, 93 YALE LAW JOURNAL 1197 (1984).  
+49 See Hansmann, note 36. For a discussion of the consequences of different risk 
+preferences of diversified and undiversified  investors, see John Armour and Jeffrey N. 
+Gordon, Systemic Harms and Shareholder Value , 6 JOURNAL OF LEGAL ANALYSIS 35, 50-56 
+(2014) .   "
+" 
+ person partner ship in which one partner supplies labor and the other capital. 
+As a consequence, the business corporation is less flexible than the 
+partnership in terms of assigning ownership. To be sure, with sufficient 
+special contracting and manipulation of the form, ownership  of shares in a 
+business corporation can be granted to contributors of labor or other factors 
+of production, or in proportion to consumption of the firm’s services. 
+Moreover, as the corporate form has evolved, it has achieved greater 
+flexibility i n assigning ownership, either by permitting greater deviation from 
+the default rules in the basic corporate form (e.g., through restrictions on 
+share ownership or transfer), or by developing a separate and more 
+adaptable form for close d corporations. Never theless, the default rules of 
+corporate law continue to be  generally designed for investor ownership, and 
+deviation from this pattern can be awkward . The complex arrangements for 
+sharing rights to earnings, assets, and control between entrepreneurs and 
+investors in high -tech start -up firms are a good example.50 
+There has been further specialization even amongst investor -owned 
+companies, with the recent emergence of special forms of ‘public benefit’ or 
+‘community interest’ corporations designed to accommodate  the needs of 
+hybrid firms that, while investor owned, also commit to the pursuit of a 
+specified social objective.51 In other instances, state -owned enterprises 
+(SOEs) embrace the corporate form, hence permitting the government to 
+share ownership with priva te investors.Because the state is seldom, if ever, a 
+typical financial investor, state ownership entails a degree of heterogeneity in 
+the shareholder base that exceeds that of the typical investor -owned firm, 
+with potential for unique conflicts of interest .52 Sometimes core corporate law 
+itself deviates from the assumption of investor ownership to permit persons 
+other than investors of capital —for example, creditors or employees —to 
+participate in either control or profit -sharing, or both. Worker codeterminat ion 
+is a conspicuous example. The wisdom and means of providing for such non -
+investor participation in firms that are otherwise investor -owned remains one 
+of the central  controversies in corporate law , which w e address further in 
+Chapter 4.  
+Most jurisdicti ons also have one or more statutory forms —such as the 
+U.S. nonprofit corporation, the civil law foundation, and the UK company 
+limited by guarantee —that provide for formation of nonprofit firms. These are 
+firms in which no person may participate simultaneo usly in both the right to 
+control and the right to residual earnings (which is to say, the firms have no 
+owners). While nonprofit organizations, like cooperatives, are sometimes 
+labelled ‘corporations’, however, they will not be within the specific focus o f 
+                                                           
+50 Stephen N. Kaplan and Per Strömberg, Financial Contracting Theory Meets the Real 
+World: An Empirical Analysis of Vent ure Capital Contracts , 70 REVIEW OF ECONOMIC STUDIES 
+281 (2003).  
+51 See, e.g., Jesse Finfrock and Eric L. Talley, Social Entrepreneurship and Uncorporations , 
+2014 ILLINOIS LAW REVIEW  1867; Regulator of Community Interest Companies (UK), ANNUAL 
+REPORT 2013/2 014 (2014) .  
+52 See, e.g., Mariana Pargendler, Aldo Musacchio, and Sergio G. Lazzarini, In Strange 
+Company: The Puzzle of Private Investment in State -Controlled Firms , 46 CORNELL 
+INTERNATIONAL LAW JOURNAL  569 (2013).  "
+" 
+ our attention here —even though a number of successful industrial firms 
+around the world are organized as nonprofits .53 Thus, when we use the term 
+‘corporation’ in this book, we refer only to the business corporation, and not to 
+cooperative corporations, n onprofit corporations, municipal corporations, or 
+other types of incorporated entities. When there is potential for ambiguity, we 
+will explicitly use the term ‘business corporation’ to make specific reference to 
+the investor -owned company that is our princ ipal focus.  
+1.3 Sources of Corporate Law  
+All jurisdictions with well -developed market economies have a t least one core 
+statute that establishes a basic corporate form with the five characteristics 
+described above, and that is designed particularly to permit the formation  of 
+public corporations. Nevertheless, corporate law as we understand it here —in 
+functional terms —generally extends well beyond the bounds of this core 
+statute.  
+1.3.1  Special and partial corporate forms  
+First, major jurisdictions commonly have at least one  distinct statutory 
+form specialized for the formation of closed corporations  or limited liability 
+companies . These forms —including the Brazilian Ltda, the French SARL, the 
+German GmbH, the  Italian Srl, the Japanese godo kaisha , the American 
+limited liabil ity company, and the UK private company54—typically exhibit  
+most  of the canonical features of the corporate form. They differ from open , 
+or ‘public’,  companies chiefly because their shares, though generally 
+transferable at least  in principle, are presumed —and in some cases 
+required —not to trade freely in a public market. Sometimes these forms also 
+permit departure from one of our five core characteristics —delegated 
+management —by permitting elimination of the board in favor of direct 
+management by shareholde rs.55 The statutes creating these forms also 
+commonly permit, and sometimes facilitate, special allocations of control, 
+earnings rights, and rights to employment among shareholders that go 
+beyond those permitted in the core public corporation statute.  
+Secon d, some jurisdictions have, in addition to these special closed 
+corporation forms, quasi -corporate statutory forms that can be used to form 
+business corporations with all of our five core characteristics, though some of 
+these characteristics must be added by contract. One example is the limited 
+liability partnership, which has recently been added to the forms available in 
+the law of the U.S. , Japan  and some European jurisdictions. This form simply 
+grafts limited liability onto the traditional general partne rship. U.S. and U.K. 
+law now allow a limited partnership to have something close to strong form 
+                                                           
+53 On the so -called ‘industrial foundatio ns,’ see Steen Thomsen and Henry Hansmann, 
+Managerial Distance and Virtual Ownership: The Governance of Industrial Foundations , 
+Working Paper (2013), at ssrn.com.  
+54 In the case of the UK private company, the standard form is provided not by a separate 
+statute, but by a range of provisions in a single statute with differential application to public 
+and private companies.  
+55 See note  44. "
+" 
+ entity shielding (by limiting the rights of partners or their creditors to force 
+liquidation).56 Consequently, with appropriate governance provisions in the 
+partnership agreement, it is effectively possible to create a closed corporation 
+as a limited liability partnership.  
+The U.S. statutory business trust  offers another example. It provides 
+for strong form legal personality and limited liability, but leaves all e lements of 
+internal organization to be specified in the organization’s governing instrument 
+(charter), failing even to provide statutory default rules for most such 
+matters.57 With appropriate charter provisions, a statutory business trust can 
+be made equiv alent to a public corporation, with the trust’s beneficiaries in the 
+role of shareholders.  
+The analysis we offer in this book extends to all these special and 
+quasi -corporate forms insofar as they display most or all of the core corporate 
+characteristics . Although we make occasional reference to some of these 
+forms to underscore certain peculiarities, the description of our core 
+jurisdictions’ corporate laws in Chapters 3 to 9 focuses mainly on public 
+corporations . 
+1.3.2  Other bodies of law  
+There are bodies  of law that, at least in some jurisdictions, are 
+contained  in statutes or case law that are separate from the core corporation 
+statutes, and from the special and quasi -corporation statutes just described, 
+but that are nonetheless instrumental to the funct ioning of the five core 
+characteristics of the corporate form or to addressing the corporate agency 
+problems we describe in Chapter 2 . Hence , we view them functionally as part 
+of corporate law.  
+To begin, the German law of groups, or Konzernrecht,  qualifies  limited 
+liability and limits the discretion of boards of directors in corporations  that are 
+closely related through c ommon  ownership, seeking to protect the creditors 
+and minority shareholders of corporations with controlling shareholders. 
+Although the Konzernrecht —touched upon  in more detail in Chapters 5 and 
+6—is embodied in statutory law that is formally distinct from the corporation 
+statutes  and case law , it is clearly an integral part of German corporate law. 
+Similarly, the statutory rules in many jur isdictions that require employee 
+representation on a corporation’s board of directors —such as, conspicuously, 
+the German law of codetermination —qualify as elements of corporate law, 
+even though they occasionally originate outside the principal corporate la w 
+statutes, because they impose a detailed structure of employee participation 
+on the boards of directors of large corporations.  
+Securities laws in many jurisdictions, including conspicuously the U.S., 
+have strong effects on corporate governance through ru les mandating 
+disclosure ,58 and sometimes regulating sale and resale of corporate 
+                                                           
+56 See Hansmann, Kraakman and Squire, note  13, at 1391 –4. 
+57 It differs from the common law private trust, from which it evolved, principally in providing 
+unambiguously for limited liability for the trust’s beneficiaries even if they exercise control.  
+58 A claim strongly put by Robert B. Thompson and Hillary A. Sale, Securities Fraud as 
+Corporate Governance: Reflections upon Federalism , 56 VANDERBILT LAW REVIEW  859 (2003).  "
+" 
+ securities, mergers and acquisitions, and corporate elections. Stock exchange 
+rules, which can regulate numerous aspects of the internal affairs of 
+exchange -listed firms, can also serve as an additional source of corporate 
+law, as can other forms of self -regulation, such as the UK’s City Code on 
+Takeovers and Mergers.59 These supplemental sources of law are necessarily 
+part of the overall structure of corporate law, and we shall  be concerned here 
+with all of them.  
+There are many constraints imposed on companies by bodies of law 
+designed to serve objectives that are, in general, independent of the form 
+taken by the organizations they affect. While we will not explore these bodies 
+in general, we will discuss th ose that have important effects on corporate 
+structure and conduct . Bankruptcy law —or ‘insolvency law’, as it is termed in 
+some jurisdictions —is an example. Bankruptcy effects a shift in the ownership 
+of the firm from one grou p of investors to another —from shareholders to 
+creditors. By providing creditors with an ultimate sanction against defaulting 
+firms, it casts a shadow over firms’ relations with their creditors, and affects 
+the extent to which creditors may need generalize d protections in corporate 
+law. We thus consider the role of bankruptcy law in Chapter 5. Tax law also 
+affects directly the internal governance of corporations at various points; the 
+U.S. denial of deductibility from corporate income, for tax purposes, of 
+executive compensation in excess of $1 million unless it is in the form of 
+incentive pay, discussed in Chapter 3, is a clear example.60 And, beyond 
+providing for board representation of employees, labor law in some 
+countries —as emphasized in Chapter 4 —involves employees or unions in the 
+corporate decision -making process, as in requirements that works councils or 
+other workers’ organs be consulted prior to taking specified types of actions.  
+1.4 Law versus Contract in Corporate Affairs  
+The relationships among the participants in a corporation are, to an important 
+degree, contractual. The principal contract that binds them is the corporation’s 
+charter  (or ‘articles of association’ or ‘constitution ’, as it is termed in some 
+jurisdictions). The charter sets out the basic terms of the relationship among 
+the firm’s shareholders, and between the shareholders and the firm’s directors 
+and other managers.61 By explicit or implicit reference, the charter can  also 
+become part of the contract between the firm and its employees or creditors. 
+One or more shareholders’ agreements  may, in addition,  bind s ome or all of a 
+corporation’s shareholders.  
+                                                           
+59 We term such self -regulation a source of ‘law’ in part because it is commonly supported, 
+directly or indirectly, by law in the narrow sense. The self -regulatory authority of the American 
+stock exchanges, for example, is both reinforced and constrained by the U.S. Securities 
+Exchange Act and the administrative rules promulgated by the Securities and Exchange 
+Commission under that Act. Similarly, the authority of the UK’s Takeover Panel was 
+supported indirectly until 2006 by the recognition that if its rulin gs were not observed, formal 
+regulation would follow. Since then, it has enjoyed formal statutory authority (Part 28 
+Companies Act 2006 (UK)), and so is no longer, strictly speaking, ‘self -regulatory’.  
+60 § 162(m) Internal Revenue Code (U.S.).  
+61 The charter may be supplemented by a separate set of bylaws, which commonly govern 
+less fundamental matters and are subject to different —generally more flexible —amendment 
+rules than is the charter.  "
+" 
+ At the same time, corporations are the subject of a large body of 
+statutory law. That body of law is the principal focus of this book. Before 
+examining the details of that law, however, we must address a fundamental —
+and surprisingly difficult —question: What role does this law play? As we have 
+already seen, with few excepti ons, the defining elements of the corporate form 
+could in theory be established simply by contract. And the same is true of 
+most of the other rules of law that we examine throughout this book. If those 
+rules of law did not exist, the relationships they est ablish could still be created 
+by means of contract, just by placing similar provisions in the organization’s 
+charter. Indeed, t his was the approach taken by the numerous unincorporated 
+joint stock companies  formed in England during the eighteenth and early  
+nineteen th centuries, before incorporation became widely available in 1844. 
+Those companies obtained their legal personality from partnership and trust 
+law, and created the rest of their corporate structure —including limited 
+liability —by means of contract .62 Why, then, do we today have, in every 
+advanced economy, elaborate statutes providing numerous detailed rules for 
+the internal governance of corporations?  
+1.4.1 Mandatory laws versus default provisions  
+In addressing this question, it is important to dist inguish between legal 
+provisions that are merely default rules, in the sense that they govern only if 
+the parties do not explicitly provide for something different, and laws that are 
+mandatory, leaving parties no option but to conform to them.63 
+A significa nt part of corporate law —more in some jurisdictions, less in 
+others —consists of default provisions.64 To this extent, corporate law simply 
+offers a standard form contract that the parties can adopt, at their option, in 
+whole or in part. A familiar advantage  of such a legally provided standard form 
+is that it saves costs —specifically, it simplifies contracting among the parties 
+involved  by requiring that they specify only those elements of their relationship 
+that deviate from the standard terms. Corporate law ’s provision of such 
+standard terms as default is thereby seen in economic terms as a ‘public 
+good’. Default provisions can serve this function best if they are ‘majoritarian’ 
+in content —that is, if they reflect the terms that the majority of well -informed  
+parties would themselves most commonly choose.65 
+Default provisions can be supplied in a variety of ways, the choice of 
+which affects the ease and means of ‘contracting around’ them.66 A common 
+                                                           
+62 Ron Harris, INDUSTRIALIZING ENGLISH LAW (2000) ; Hansmann, Kraakman, and Squire, note 
+13. 
+63 See generally the papers in the symposium edition entitled Contractual Freedom and 
+Corporate Law , in 89 COLUMBIA LAW REVIEW  1395–1774 (1989).  
+64 They are ‘defaults’ in the sense that they apply (as with computer settings) ‘in default ’ of 
+the parties stipulating something else.  
+65 Easterbrook and Fischel, note  7, at 34 –5. 
+66 The ease with which parties can ‘contract around’ a default provision will affect the way it 
+operates. For a nuanced discussion of these and other issues, see Ian Ayres, Regulating Opt -
+Out: An Economic Theory of Altering Rules , 121 YALE LAW JOURNAL  2032 (2012). For an 
+empirical perspective, see Yair Listoki n, What do Corporate Default Rules and Menus Do? An 
+Empirical Examination , 6 JOURNAL OF EMPIRICAL LEGAL STUDIES  279 (2009).  "
+" 
+ form of corporate law default is a statutory provision that wil l govern unless 
+the parties explicitly provide an alternative. The common provision that each 
+share carries one vote  is an example. A charter clause  can deviate from that 
+default by, for instance, providing for the issuance of a class of stock carrying 
+no voting right . 
+Alternatively, corporate law itself sometimes specifies the rule that will 
+govern if the default provision is not chosen —an ‘either -or’ provision. An 
+example is offered by French corporate law, which allows companies’ charters 
+to opt for a tw o-tier board structure as an alternative to the default single -tier 
+one.67 In other words, the law in this case gives the corporation a choice 
+between two statutory provisions : one is the default and the other is the 
+‘secondary’ provision, with the latter a pplying only if the firm opts out of the 
+default (or, equivalently, ‘opts in’ to the secondary provision). The law may 
+also impose special procedures for altering a default rule , such as by requiring 
+minority approval to alter default rules that protect th eir interests .68 An 
+extension of the binary two -alternative -provisions approach just described is 
+to provide corporations with a choice among a ‘menu’ of more than two 
+specified rules.69  
+There are also important rules of corporate law that are mandatory.70 
+Large German corporations, for example, have no alternative but to give half 
+of their supervisory board seats to representatives of their employees, and 
+publicly traded U.S. corporations have no alternative but to provide regular 
+detailed financial disclosu re in a closely prescribed format.71 The rationale for 
+mandatory terms of these types is usually based on some form of ‘contracting 
+failure’: some parties might otherwise be exploited because they are not well 
+informed; the interests of third parties might be affected; or collective action 
+problems might otherwise lead to contractual provisions that are inefficient or 
+unfair.72 Mandatory terms may also serve a useful standardizing function, in 
+circumstances (such as with accounting rules) where the benefits o f 
+compliance increase if everyone adheres to the same provision.  
+Mandatory rules need not just serve a prescriptive function, however. 
+When used in conjunction with a choice of corporate forms , they can perform 
+an enabling function similar to that served b y default rules. More particularly, 
+mandatory rules can facilitate freedom of contract by helping corporate actors 
+to signal the terms they offer and to bond themselves to those terms. The law 
+accomplishes this by creating corporate forms that are to some degree 
+inflexible (i.e., are subject to mandatory rules), but then permitting choice 
+                                                           
+67 See Art.  225–57 Code de commerce.  
+68 See Lucian A. Bebchuk and Assaf Hamdani, Optimal Defaults For Corporate Law 
+Evolution , 96 NORT HWESTERN UNIVERSITY LAW REVIEW  489 (2002).  
+69 Michael Klausner, Corporations, Corporate Law, and Networks of Contracts,  81 VIRGINIA 
+LAW REVIEW  757, 839 –41 (1995).  
+70 See Jeffrey N. Gordon, The Mandatory Structure of Corporate Law , 89 COLUMBIA LAW 
+REVIEW  1549  (1989).  
+71 See Chapters  4.2.1  (codetermination) and 6.2.1 and 9.1.1 (disclosure).  
+72 See generally Michael J. Trebilcock, THE LIMITS OF FREEDOM OF CONTRACT  (1993).  "
+" 
+ among different corporate forms.73 There are two principal variants to this 
+approach.  
+First, a given jurisdiction can provide for a menu of different standard 
+form legal en tities from which parties may choose in structuring an 
+organization. In some U.S. jurisdictions, for example, a firm with the five basic 
+attributes of the business corporation can be formed, alternatively, under a 
+general business corporation statute, a cl ose corporation statute, a limited 
+liability company statute, a limited liability partnership statute, or a business 
+trust statute —with each statute providing a somewhat different set of 
+mandatory and default rules . Second, even with respect to a particula r type of 
+legal entity, such as the publicly traded business corporation, the organizers 
+of a firm may often choose among different jurisdictions’ laws. This leads us to 
+the general issue of choice of law and the related debate about ‘regulatory 
+competitio n’ in corporation law. Before addressing that topic, however, we 
+need to say more about the role of corporation law in general.  
+1.4.2 The benefits of legal rules  
+Default rules of corporate law do more than simply provide convenient 
+standard forms, encourage revelation of information, and facilitate choice of 
+the most efficient among several alternative rules. They also provide a means 
+of accommodating, over time, developments that cannot easily be foreseen at 
+the outset.  
+A contract that, like a corporation’s charter, must govern complex 
+relationships over a long period of time, is  necessarily incomplete . Situations 
+will arise for which t he contract fails to provide clear guidance, either because 
+the situation was not foreseeable at the time the contract was drafted or 
+because the situation, though foreseeable, seemed too unlikely to justify the 
+costs of making clear provision for it in th e contract. Statutory amendments, 
+administrative rulings, and judicial decisions can provide for such situations as 
+they arise, by either altering  or interpreting existing rules. This is the gap-filling  
+role of corporation law.  
+Courts play a key role in filling gaps, simply by interpreting privately  
+drafted contractual terms in a corporation’s charter. A firm will get the greatest 
+advantage from the courts’ interpretive activity if it adopts standard charter 
+terms used by many other firms, since those stand ard terms are likely to be 
+subject to repeated interpretation by the courts.74 And the most wide ly used 
+standard charter terms are often the default rules embodied in the corporation 
+law. So , another advantage of sticking to the  default provision s, rather t han 
+drafting specialized charter terms, is to benefit from  the constant gap -filling 
+activity stimulated by the body of precedents developed as a result of other 
+                                                           
+73 Larry E. Ribstein, Statutory Forms for Closely Held Firms: Theories and Evidence From 
+LLCs , 73 WASHINGTON UNIVERSITY LAW QUARTERLY  369 (1995); John Armour and Michael J. 
+Whincop, An Economic Analysis of Shared Property in Partnership and Close Corporations 
+Law, 26 JOURNAL OF CORPORATION LAW 983 (2001).  
+74 Ian Ayres, Making A Difference: The Contr actual Contributions of Easterbrook and Fischel , 
+59 UNIVERSITY OF CHICAGO LAW REVIEW 1391, 1403 –8 (1992).  "
+" 
+ corporations that are also subject to those rules.75 This is one example of a 
+network effect  that creates an incentive to choose a common approach.76 
+The problem of contractual incompleteness goes beyond mere gap -
+filling, however. Given the long lifespan of many corporations, it is likely that 
+some of a firm’s initial charter terms, no matter how care fully chosen, will 
+become obsolete with the passage of time owing to changes in the economic 
+and legal environment. Default rules of law have the feature that they are 
+altered over time —by statutory amendments and by judicial interpretation —to 
+adapt them t o such changing circumstances. Consequently, by adopting a 
+statutory default rule, a firm has a degree of assurance that the provision will 
+not become anachronistic. If, in contrast, the firm puts in its charter a special ly 
+drafted provision in place of th e statutory default, only the firm itself can 
+amend the provision when, over time, a change is called for. This runs into the 
+problem that the firm’s own mechanisms for charter amendment may be 
+vetoed or hijacked by particular constituencies in order, resp ectively, to 
+protect or further their partial interests. Simply adopting the statutory default 
+rules, and delegating to the state the responsibility for altering those rules 
+over time as circumstances change, avoids these latter problems.77 
+It follows from much of the foregoing that, for many corporations, there 
+may often be little practical difference between mandatory and default rules. 
+Firms end up, as a practical matter, adopting default rules as well as the 
+mandatory rules. The most empirically signific ant dimensions of selection lie 
+in the abilit y of participants to select from a range of different business 
+forms —which we have discussed —and of corporations to choose the 
+jurisdiction by whose corporation law they will be governed, which is the 
+subject to  which we turn next.  
+1.4.3 Choice of legal regime  
+The various forms of flexibility in corporate law on which we have so far 
+concentrated —the choice of special ly drafted charter provisions versus 
+default provisions, the choice of one default rule in a given statute as opposed 
+to ano ther, and the choice of one statutory form versus another —can all be 
+provided within any given jurisdiction. As we have noted, however, there can 
+be yet another dimension of choice —namely, choice of the jurisdiction in 
+which to incorporate.  
+In the United S tates, for example, the prevailing choice of law rule for 
+corporate law is the ‘place of incorporation’ rule, which permits a business 
+corporation to be incorporated under —and hence governed by —the law of 
+                                                           
+75 Klausner, note 69, at 826-29. 
+76 A related network effect that may encourage firms to adopt standardized charter terms,  
+and in particular to accept default rules of law, is that those provisions are more famil iar to 
+analysts and investors, thus reducing their costs of evaluating the firm as an investment. 
+Similar network effects may cause legal services to be less expensiv e for firms that adopt 
+default rules of law. See Marcel Kahan and Michael Klausner, Standardization and Innovation 
+In Corporate Contracting (or ‘The Economics of Boilerplate’) , 83 VIRGINIA LAW REVIEW  713 
+(1997).  
+77 See Henry Hansmann, Corporation and Contra ct, 8 AMERICAN LAW AND ECONOMICS REVIEW  
+1 (2006).  "
+" 
+ any of the fifty  individual states (or any foreign country), regardless of where 
+the firm’s principal place of business, or other assets and activities, are 
+located. That form of choice, long available within the United States and in a 
+number of other countries as well, has now been largely extende d to 
+entrepreneurs  throughout the European Union as a consequence of European 
+Court of Justice decisions requiring the domestic recognition of corporations 
+formed in other member states adopting the place of incorporation rule .78 
+These denied the efficacy of the ‘r eal seat’ doctrine under which, in many 
+European countries, firms were formerly required to incorporate under the law 
+of the state where the firm had its principal place of business.79  
+The consequence of choice a mongst  jurisdictions is not simply  to 
+enlarg e the range of governance rules from which a given firm can choose . It 
+also create s the opportunity for a jurisdiction to induce firms to incorporate 
+under its law —and thereby bring revenue to the state directly (through 
+franchise fees) and indirectly (thr ough increased demand for local services) —
+by making th at jurisdiction ’s corporate law attractive. This permits the 
+emergence of corporate law systems that are driven primarily by market 
+forces based on companies’ demand, and less influenced by other politi cal 
+forces that typically shape democratic lawmaking.80 Whether such ‘regulatory 
+competition’ exists at all —and if it does, whether it is a good thing —has long 
+been the subject of vigorous debate.81  Pessimists argue that it creates a ‘race 
+to the bottom’ in  which the state that wins is that which goes furthest in 
+stripping its law of protections for constituencies who do not control the 
+(re)incorporation decision. Optimists argue that, on the contrary, regulatory 
+competition in corporate law creates a virtuo us ‘race to the top’ : because the 
+                                                           
+78 Case C -212/97, Centros Ltd v. Erhvervs -og Selskabssyrelsen  [1999] EUROPEAN COURT 
+REPORTS  I-1459; Case C -208/00, Überseering BV v. Nordic Construction Company 
+Baumanagement GmbH  (NCC) [2002] EUROPEAN COURT  REPORTS  I-9919; Case C -167/01, 
+Kamel van Koophandel en Fabrieken voor Amsterdam v. Inspire Art Ltd  [2003] EUROPEAN 
+COURT REPORTS  I-10155; Case C -210/06, Cartesio Oktató és Szolgáltató bt  [2008] EUROPEAN 
+COURT REPORTS  I-9641 ; Case C -378/10 VALE Építési kft  ECLI:EU:C:2012:440;. See Marco 
+Becht, Colin Mayer and Hannes F. Wagner, Where do firms incorporate? Deregulation and 
+the cost of entry , 14 JOURNAL OF CORPORATE FINANCE  241 (2008);  John Armour and Wolf -
+Georg Ringe, European Company Law 1999 -2010: Renaissan ce and Crisis , 48 COMMON 
+MARKET LAW REVIEW  125, 131 -143. The position as respects change of corporate law for 
+existing companies is more complex: see ibid, 158 -169.  
+79 However, insolvency law rules are more likely to be applied according to the place of 
+business: see Art . 3(1) and preamble para (30)  Regulation (EU) 20 15/848 , 2015 O.J. (L 141) 
+19; Case C -341/04 Eurofood IFSC ltd [2006] EUROPEAN COURT REPORTS  I-3813; Case C -
+306/09 Re Interedil Srl [2011] EUROPEAN COURT REPORTS  I-9915;  Case C -594/14 Kornhaas v 
+Dithmar ECLI:EU:C:2015:806 . 
+80 See Section  1.6; Ronald J. Gilson, Henry Hansmann and Mariana Pargendler, Corporate 
+Chartering and Federalism:  A New View, Working Paper (2015 ).  
+81 On the existential question, s ee, e.g., Marcel Kahan and Ehud Kamar, The Myth  of State 
+Competition in Corporate Law , 55 STANFORD LAW REVIEW  679 (2002) ; Luca Enriques, EC 
+Company Law and the Fears of a European Delaware 15 EUROPEAN BUSINESS LAW REVIEW  
+1259 (2004) . "
+" 
+ capital markets price, more or less accurately, the effects of corporate law  
+choice, the state that wins is that whose law maximizes shareholder  welfare.82  
+Of course, there is dispute as to what constitutes an ‘optimal’ bo dy of 
+corporate law, even in theory —a topic to which we will turn shortly . Yet an 
+important benefit associated with the existence of choice  among multiple 
+regulatory regimes is that is creates opportunities for regulatory 
+experimentation. That is, diverse legal regimes serve as laboratories from 
+which regulators and firms can learn more about the merits and drawbacks of 
+different modes of regulation.83 Moreover, there is unlikely to be a single 
+optimal body of corporate law applicable to all firms, since com panies vary in 
+their needs for regulation. Choice among jurisdictions (or statutory menus) 
+therefore enables diverse legal regimes to cater to the needs of different types 
+of firms.84  While much of the literature on regulatory competition tends to 
+assume c orporate law is a single uniform commodity, this is not always what 
+we observe in practice.85  
+Finally, even if the optimal corporate law regime were uniform and 
+known to parties, the existence of dual —or even multiple —regulatory regimes 
+might be justified by reference to politics. Reform of inefficient rules may be  
+blocked by powerful interests —such as those of managers, controlling 
+shareholders or workers —who benefit from the status quo. In such instances, 
+framing a reform as voluntary can disable opposit ion by creating a more 
+efficient parallel regime which, because it only applies to those who opt into it, 
+does not impinge on the entitlements of incumbents. Both the establishment 
+of the Novo Mercado premium listing segment in Brazil and certain EU 
+measur es such as the creation of the European Company ( Societas 
+Europaea —SE) can be interpreted as bypassing the political clout of interest 
+groups in existing companies.86  
+                                                           
+82 The classical statements of the two polar views are William Cary, Federalism and 
+Corporate Law: Reflections upon Delaware , 83 YALE LAW JOURNAL  663 (1974), and Ralph 
+Winter, State Law, Shareholder Protection and the Theory of the Corporation , 6 JOURNAL OF 
+LEGAL STUDIES  251 (1977). For a recent review of this literature, se e Roberta Romano, The 
+Market for Corporate Law Redux , in OXFORD HANDBOOK OF LAW AND ECONOMICS (Francesco 
+Parisi ed., 2015).  
+83 See Simon Deakin, Regulatory Competi tion Versus Harmonization in European Company 
+Law in REGULATORY COMPETITION AND ECONOMIC INTEG RATION  190, 216 -17 (Daniel Esty and 
+Damien Gerardin eds., 2001) . 
+84 See John Armour, Who Should Make Corporate Law? EC Legislation versus Regulatory 
+Competition 58 CURRENT LEGAL PROBLEMS  369 (2005).  
+85 See K.J. Martin Cremers and Simone M. Sepe, The Financia l Value of Corporate Law: 
+Evidence from (Re)incorporations , Working Paper (2015 ), at ssrn.com ; Jens Dammann and 
+Matthias Schündeln, The Incorporation Choices of Privately Held Corporations , 27 JOURNAL 
+OF LAW, ECONOMICS , AND ORGANIZATION  79 (2011) . 
+86 Ronald  J. Gilson, Henry Hansmann, and Mariana Pargendler, Regulatory Dualism as a 
+Development Strategy: Corporate Reform in Brazil, the United States, and the European 
+Union , 63 STANFORD LAW REVIEW 475 (2011 ). "
+" 
+ 1.5 What Is the Goal of Corporate Law?  
+What is the goal of corporate law, as distinct fro m its immediate functions of 
+defining a form of enterprise and containing the conflicts among the 
+participants in this enterprise?  As a normative matter, the overall objective of 
+corporate law —as of any branch of law —is presumably to serve the 
+interests of  society as a whole. More particularly, the appropriate goal of 
+corporate law is to advance the aggregate welfare of all who are affected by 
+a firm’s activities, including the firm’s shareholders, employees, suppliers, 
+and customers, as well as third parti es such as local communities and 
+beneficiaries of the natural environment.87 This is what economists would 
+characterize as the pursuit of overall social welfare .  
+At least in theory, however, the pursuit of overall social welfare may 
+be compatible with diff erent immediate goals for corporate law. One view is 
+that corporate law best advances social welfare by reducing the costs of 
+contracting among the corporation’s contractual constituencies —which 
+include not only managers and shareholders but also certain c reditors and 
+employees. The underlying assumption is that any externalities that the 
+corporation generates are best addressed by regulatory constraints from 
+other areas of law. Indeed, legal strategies designed to maximize the value 
+of firms adopting the c orporate structure constitute both the lion’s share of 
+corporate law as it is generally understood and the primary object of our 
+analysis.  
+It is sometimes said that the goals of core corporate law should be 
+even narrower. In particular, it is sometimes sa id that the appropriate role of 
+corporate law is simply to assure that the corporation serves the best interests 
+of its shareholders or, more specifically, to maximize financial returns to 
+shareholders or, more specifically still, to maximize the current m arket price of 
+corporate shares. Such claims can be viewed in two ways.  
+First, these claims can be taken at face value, in which case they 
+neither describe corporate law as we observe it nor offer a normatively 
+appealing aspiration for that body of law. Th ere would be little to recommend 
+a body of law that, for example, permits corporate shareholders to enrich 
+themselves through transactions that make creditors or employees worse off 
+by $2 for every $1 that the shareholders gain.  
+Second, such claims can be understood as saying, more modestly, that 
+focusing principally on the maximization of shareholder returns is, in general, 
+the best means by which corporate law can serve the broader goal of 
+advancing overall social welfare. In general, creditors, workers, and 
+customers will consent to deal with a corporation only if they expect 
+themselves to be better off as a result. Consequently, the corporation —and, in 
+                                                           
+87 We speak here of maximizing the ‘aggregate welfare ’ of society more as a loose metaphor 
+than a precise yardstick. There is no coherent way to put a number on society’s aggregate 
+welfare, much less to maximize that number —and particularly so when many benefits are in 
+appreciable part non -pecuniary. What we  are suggesting here might be put more precisely in 
+the language of welfare economics as pursuing Kaldor -Hicks efficiency within acceptable 
+patterns of distribution.  "
+" 
+ particular, its shareholders, as the firm’s residual claimants88 and risk -
+bearers —have a direct pecuniar y interest in making sure that corporate 
+transactions are beneficial, not just to the shareholders, but to all parties who 
+deal with the firm. We believe that this second view is —and surely ought to 
+be—the appropriate interpretation of statements by legal scholars and 
+economists asserting that shareholder value is the proper object of corporate 
+law. 
+We should keep in mind, as well, that to say that shareholder value is 
+the principal objective toward which corporations should be managed is not to 
+say that th e corporation should maximize pecuniary profits regardless of the 
+means employed. In particular, an unappealing implication of the unrestrained 
+pursuit of profit is that firms should not take the legal regime as pre -
+determined, but instead become actively involved in seeking to relax rules that 
+constrain their imposition of externalities.89 Such corporate influence in the 
+rule-making process is clearly problematic, and to the extent that regulation is 
+consequently compromised, it may be appropriate for corpo rate law to seek to 
+modify internal governance arrangements accordingly.90  
+How generally the pursuit of shareholder value is an effective means of 
+advancing overall social welfare is an empirical question , on which reasonable 
+minds can differ. While each o f the authors of this book has individual views 
+on this claim, we do not take a strong position on it in the chapters that follow. 
+Rather, we undertake the broader task of offering an analytic framework 
+within which this question can be explored and debate d. 
+Another view is that, given the prominent role of the business 
+corporation in the modern economy, corporate law can be harnessed to 
+promote social welfare directly through more tailored interventions, for 
+example by imposing socially oriented disclosure  obligations or molding the 
+corporation’s internal governance arrangements to address broader social 
+problems. From this perspective, corporate law may be used to promote  
+economic or social objectives beyond maximizing the value of the firm, such 
+as reduc ing systemic risk, mitigating gender inequity or protecting the 
+environment.91 Although as old as corporate law itself,92 the deployment of 
+                                                           
+88 Shareholders are a corporation’s ‘residual claimants’ in the sense that they are entitle d to 
+appropriate all (and only) the net assets and earnings of the corporation after all contractual 
+claimants —such as employees, suppliers, and customers —have been paid in full.  
+89 For firms in industries subject to regulation to control externalities, cor porate political 
+spending is universal: John C. Coates IV, Corporate Politics, Governance, and Value Before 
+and After Citizens United , 9 JOURNAL OF EMPIRICAL LEGAL STUDIES  657 (2012).  
+90 Leo E. Strine, Jr. and Nicholas Walter, Conservative Collision Course:  The Tension 
+between Conservative Law Theory and Citizens United , 100 CORNELL LAW REVIEW  335 
+(2015).  
+91 By far the most popular means to protect interests external to the firm is through the 
+imposition of su bstantive rules or standards  of different stripes  (as those of antitrust law, 
+environmental laws, human rights laws, antidiscrimination laws, financial regulation etc.). For 
+our purposes, as i n general parlance, the use of legal rules for purposes other than increasing 
+the value of the firm is the bounda ry separating corporate from other areas of law . On the use 
+of corporate governance to address a variety of economic and social problems, see Mariana 
+Pargendler, The Corporate Governance Obsession , 42 JOURNAL OF CORPORATION LAW 101 
+(2016).   "
+" 
+ corporate law to protect the interests of parties external to the firm has found 
+renewed favor among lawmakers in the wake of the recent financial crisis. 
+We consider some examples of this in Chapter 4, but otherwise concentrate 
+on the role of corporate law in maximizing the value of the firm by protecting 
+the interests of its contractual constituencies.  
+1.6 What Forces S hape Corporate Law?  
+To say that the pursuit of aggregate social welfare is the appropriate 
+goal of corporate law is not to say, of course, that the law always pursues it in 
+the same way . The particular contours of the problems to which corporate law 
+respon ds may be, at least in part, determined by other aspects of the 
+corporate governance environment —for example, predominant industry type, 
+institutions governing employee relations, and the structure of share 
+ownership. These may consequently complement particular features of 
+corporate law.93  Similarly, other features of the environment —for example, 
+the quality of legal institutions —may make certain aspects of corporate law 
+more or less effective in performing these functions. In each case, these point 
+to par ticular ways in which corporate law can enhance social welfare —the 
+selection of which might be termed an ‘efficiency’ effect on corporate law.  
+Nor indeed does saying that the pursuit of social welfare is the 
+appropriate goal of corporate law imply that co rporate law always does serve 
+that goal . Understanding how corporate law comes to pursue particular goals 
+is a question of political economy —that is, the political and economic forces 
+that shape lawmaking .94 The political economy of corporate law generally 
+reflects the interests of influential  constituencies, such as controlling 
+shareholders, corporate managers, or organized workers . In the presence of 
+competitive markets, these interests often coalesce on welfare -enhancing 
+laws, producing the ‘efficiency’ e ffect on corporate law. Yet in some 
+circumstances, lawmakers pay undue regard to the interests of particular 
+constituencies, a fondness for which might be termed a ‘political’ effect on 
+corporate law .  
+Another political effect is the phenomenon of populist  reforms after a 
+scandal or crisis. In the period after a crisis, lawmakers feel strong pressure 
+from the electorate to implement reforms, the content of which is determined 
+by what appeals generally, which may be quite different from what will actually 
+solve the underlying economic problems.95 The extent to which there is a 
+                                                                                                                                                                      
+92 See, e.g., Herbert Hovenkamp , ENTERPRISE AND AMERICAN LAW, 1836 -1937 , 63-4 (1991); 
+Hansmann and Pargendler, note  47, at 145.  
+93 For instance, an educational system that favors vocational and firm -specific training will 
+work best under a la bor law regime that protects employees against dismissal and under a 
+system of corporate finance that is more relational and immune to short -term oscillations in 
+market conditions. Germany traditionally embodied this institutional bundle. In the U.S., by 
+contrast, a labor regime of at -will employment favors a more generalist style of education and 
+facilitates vibrant capital markets subject to dispersed ownership and hostile takeovers.  See 
+Hall and Soskice, note 1.   
+94 See, e.g., Mark J. Roe, POLITICAL DETERMINANTS OF CORPORATE GOVERNANCE  (2003); 
+Peter A. Gourevitch and James Shinn,  POLITICAL POWER AND CORPORATE CONTROL  (2005).  
+95 See Pepper D. Culpepper, QUIET POLITICS AND BUSINESS POWER  (2011) .  "
+" 
+ divergence is another political effect on corporate law. C orporate law 
+everywhere continues to bear the imprint of the historical path through which it 
+has evolved, reflect ing both polit ical and efficiency effects along the way.  
+Reforms triggered by the recent financial crisis illustrate both efficiency 
+and political concerns. In the immediate aftermath of the crisis, many asked 
+whether it did not call into question effectiveness of corp orate law in 
+promoting social welfare.96 As the dust settled, it became tolerably clear —at 
+least to us —that the implications of the crisis were mostly confined to the 
+governance regimes applicable to banks and other financial institutions,97 
+which have an un usual degree of interconnection and propensity to contagion . 
+Consequently, there are good functional reasons for introducing special 
+regimes for bank governance that differ from ordinary business firms. 
+However, some post -crisis reforms have been more gene ral in their scope —
+which may be understood as reflecting populist political concerns triggered by 
+the crisis.98 
+We touch here briefly on  perhaps the most conspicuous of the various 
+forces that help shape —and, in turn, are shaped by —corporate law : the 
+patter n of corporate ownership . The nature and number of corporate 
+shareholders differ markedly even among the most developed market 
+economies . In recent years, the extent of these differences has lessened, but 
+their historic and remaining contours surely leave a mark on the structure of 
+corporate law.  Its relevance for our account is twofold: ownership structure 
+affects the functionality of different legal strategies, and also the interest group 
+dynamics that govern changes in corporate law.  
+In the U.S. and the  UK, there are large numbers of publicly traded 
+corporations that have dispersed share ownership , such that no single 
+shareholder, or affiliated group of shareholders, is capable of exercising 
+control over the firm.99 Shareholdings among major Japanese firm s are also 
+often highly  dispersed,100 though in the second half of the twentie th century it 
+was common for a substantial fraction of a firm’s stock to be held by other 
+firms in a loose group with substantial reciprocal cross -shareholdings.101 In 
+                                                           
+96 For a discuss ion of th e goals of corporate law, see Section 1.5. 
+97 See Armour and Gordon, note 49; Armour et al ., note 6, Ch 17. 
+98 See, e.g., Roberta Romano, Regulating in the Dark , 1 JOURNAL OF FINANCIAL PERSPECTIVES  
+23 (2013).  
+99 Rafael La Porta, Florencio Lopez -de-Silanes, and Andrei Shleifer, Corporate Ownership 
+Around the World , 54 JOURNAL OF FINANCE  471, 492 –3 (1999) ; Mara Faccio and Larry H.P. 
+Lang, The Ultimate Ownership of Western European Corporations,  65 JOURNAL OF FINANCIAL 
+ECONOMICS  365, 379 –80 (2002) . But see Clifford G. Holderness, The Myth of Diffuse 
+Ownership in the United States , 22 REVIEW OF FINANCIAL STUDIES  1377 (2009).  
+100 By some accounts, share ownership in Japanese publicly -held corporation s is more 
+dispersed than in the U.S.: see Holderness, note 99; Julian Franks, Colin Mayer, and Hideaki 
+Miyajima, The Ownership of Japanese Corporations in the 20th Century , 27 REVIEW OF 
+FINANCIAL STUDIES  2580 ( 2014).  
+101 See TOKYO STOCK EXCHANGE , 2013  SHARE OWNERSHIP SURVEY , 4 (2014); Franks et al., 
+note 100, at 29 -40. For recent unwi nding of  cross -shareholdings, see Gen Goto, Legally 
+‘Strong’ Shareholders of Japan , 3 MICHIGAN JOURNAL OF PRIVATE EQUITY AND VENTURE 
+CAPITAL 125, 144 -46 (2014).  "
+" 
+ our other juri sdictions , in contrast, even firms with public ly trading shares have 
+traditionally had a controlling shareholder , in the form of another firm  often at 
+the top of  a closely coordinated group of other firms,102 individuals, families or 
+the state.103  
+The types o f entities by or through which  non-controlling stakes  are 
+held also differ substantially from one country to another. The U.S. 
+traditionally had high levels of ownership by retail investors . In contrast, U.K. 
+stock ownership in the late twentieth century w as dominated by institutional 
+investors —primarily domestic pension funds and insurance companies.104 In 
+Germany, large commercial banks traditionally held substantial blocks of 
+shares on their own account, and also served as custodians for large amounts 
+of stock owned by individuals, whose votes were often effectively exercised 
+by the banks themselves.105  
+However, this pattern has changed in recent years. A secular growth in 
+assets under management by U.S. institutional investors —principally mutual 
+funds  and e mployer -established pension funds106—means their ownership of 
+stock now dwarves that of retail investors. This growth has also led U.S. 
+institutions to invest in other stock markets around the world. Thus in the U.K. , 
+domestic institutions have, since the tu rn of the century, ceded ownership of 
+the majority of stock to international investors, thought to be mainly U.S. 
+institutions.107 In Germany, many large companies also now have a majority 
+of foreign shareholders. And even elsewhere international investors h old a 
+substantial chunk of listed companies’ free float. While there is a certain 
+degree of convergence in ownership structures across jurisdictions, there is 
+arguably greater variance in the shareholding patterns of different firms within 
+any given jurisd iction.  
+The past two decades have also seen the rise of new types of 
+institutional investor. Conspicuous among these are hedge funds  and private 
+equity funds. Hedge funds are relatively unregulated collective investment 
+                                                           
+102 However, there are indications that the traditional position in some jurisdictions, notably 
+Germany, is starting to change in favor of more dispersed stock ownership: see Steen 
+Thomsen, Convergence of Corporate Governance during the Stock Market Bubble: Towards 
+Anglo -American or European Standards? , in CORPORATE GOVERNANCE AND FIRM 
+ORGANIZATION  297, 306 –12 (Anna Grandori ed ., 2004); Wolf-Georg Ringe, Changing Law and 
+Ownership Patt erns in Germany: Corporate Governance and the Erosion of Deutschland AG , 
+63 AMERICAN JOURNAL OF COMPARATIVE LAW 493 (2015) . 
+103 See Alexander Aganin and Paolo Volpin, The History of Corporate Ownership in Italy , in A 
+HISTORY OF CORPORATE GOVERNANCE AROUND TH E WORLD  (Randall K. Morck ed., 2005); 
+Mariana Pargendler, State Ownership and Corporate Governance , 80  FORDHAM LAW REVIEW 
+2917  (2012); Aldo Musacchio and Sergio Lazzarini, REINVENTING STATE CAPITALISM : 
+LEVIATHAN IN BUSINESS , BRAZIL AND BEYOND  (2014).  
+104 See Geof P. Stapledon , INSTITUTIONAL SHAREHOLDERS AND CORPORATE GOVERNANCE 
+(1996).  
+105 See e.g., Ralf Elsas and Jan P. Krahnen, Universal Banks and Relationships with Firms , 
+in THE GERMAN FINANCIAL SYSTEM 197 (Jan P. Krahnen and Reinhard H. Schmidt eds. , 2006).  
+See also sources cited note 102. 
+106 Board of Governors of the Federal Reserve System, FLOW OF FUNDS ACCOUNTS IN THE 
+UNITED STATES : ANNUAL FLOWS AND OUTSTANDINGS , 2005 –2013 , 98 (Table L.213) (2014).  
+107 Office for  National Statistics (UK), OWNERSHIP OF UK QUOTED SHARES , 2013  (2014).  "
+" 
+ funds which , despite their name, of ten adopt highly speculative strategies  
+including purchasing  substantial stakes in individual firms,108 and that 
+sometimes agitate for major changes in the firms’ structure, strategy, or 
+management. P rivate equity firms, in turn, are (typically) investment v ehicles  
+that acquire, at least temporarily, control, and then complete ownership of 
+formerly public companies to effect major changes in the firms’ structure, 
+strategy, or management.109 We have also seen the proliferation of state -
+controlled institutional i nvestors, such as sovereign wealth funds.   
+Plausibly , differences in patterns of shareholding across countries 
+correlate with differences in the structure of corporate law. An influential 
+series of empirical studies on ‘law and finance’ reported that, at the end of the 
+twentieth century,  countries with greater legal protection for shareholders 
+(against opportunism by managers and controlling shareholders ) had less 
+concentrated shareholdings ,110 although subsequent studies found the results 
+to be sensitive to  the way in which ‘protection’ is measured.111 Such a pattern 
+is consistent with both changes in the configuration of interest groups who call 
+for changes in corporate laws, and changes in the types of corporate law rules 
+that yield functional outcomes.  
+To some extent, therefore, the structure of corporate law in any given 
+country is a consequence of that country’s pattern of corporate ownership . 
+This in turn is determined at least in part by forces exogenous to corporate 
+law.112 It has been argued, for example , that the traditionally retail -oriented  
+pattern of U.S. shareholdings was a product  of that country’s history  of 
+populist politics, which generated  a number of policies successfully designed 
+to frustrate family and institutional control of industrial ente rprise.113 
+Correspondingly, it is  said that the traditionally more concentrated share 
+ownership patterns in continental Europe and Japan complemented particular 
+                                                           
+108 Marcel Kahan and Edward B. Rock, Hedge Funds in Corporate Governance and 
+Corporate Control , 155 UNIVERSITY OF PENNSYLVANIA LAW REVIEW  1021 (2007); Ronald J. 
+Gilson and Je ffrey N. Gord on, The Agency Costs of Agency Capitalism: Activist Investors and 
+the Revaluation of Governance Rights , 113 COLUMBIA LAW REVIEW  863 (2013).  
+109 See Brian R. Cheffins and John Armour, The Eclipse of Private Equity , 33 DELAWARE 
+JOURNAL OF CORPORAT E LAW 1 (2008 ); Viral V. Acharya, Oliver F. Gottschalg and Moritz 
+Hahn,  Corporate Governance and Value Creation: Evidence from Private Equity , 26 REVIEW 
+OF FINANCIAL STUDIES  368 (2013).  
+110  For a review, see Rafael La Porta, Florencio Lopez -de-Silanes,  and Andrei Shleif er, The 
+Economic Consequences of Legal Origins , 46 JOURNAL OF ECONOMIC LITERATURE  285 (2008).  
+111 See Sofie Cools, The Real Difference in Corporate Law Between the United States and 
+Continental Europe: Distribution of Powers , 30 DELAWARE JOURNAL OF CORPORAT E LAW 697 
+(2005); John Armour, Simon Deakin, Prabirjit Sarkar, and Ajit Singh , Sharehol der Protection 
+and Stock Market Development: An Empirical Test of the Legal Origins Hypothesis , 2 
+JOURNAL OF EMPIRICAL LEGAL STUDIES  343 (2009); Holger Spamann, The ‘Antidirector  Rights 
+Index’ Revisited , 23 REVIEW OF FINANCIAL STUDIES  467 (2010).  
+112 Brian R. Cheffins, Does Law Matter? The Separation of Ownership and Control in the 
+United Kingdom , 30 JOURNAL OF LEGAL STUDIES  459 (2001); John C. Coffee, Jr., The Rise of 
+Dispersed Ownership: The Roles of Law and the State in the Separation of Ownership and 
+Cont rol, 111 YALE LAW JOURNAL  1 (2001).  
+113 Mark J. Roe, STRONG MANAGERS , WEAK OWNERS  (1994).  "
+" 
+ patterns of industrial development.114 On this view , a controlling shareholder 
+may, under certain c ircumstances,  be better placed to make credible long -
+term commitments to employees, which in turn may facilitate labor relations —
+and hence productivity —where the goal is to motivate workers to use existing 
+technology, rather than to develop new technologie s.115 
+This is principally a book about the structure and functions of corporate 
+law, not about its origins. Nonetheless, in the chapters that follow we will here 
+and there explore, briefly and somewhat  speculatively, the influence of 
+ownership structure —and of other  forces  as well —in shaping the patterns of 
+corporate law that we see across jurisdictions.  
+                                                           
+114 See Wendy Carlin and Colin Mayer, Finance, Investment and Growth , 69 JOURNAL OF  
+FINANCIAL ECONOMICS  191 (2003).  
+115 See Hall and Soskice, note 1; Barry Eichengreen, EUROPE ’S ECONOMY SINCE 1945  (2006); 
+Colin Mayer, FIRM COMMITMENT  (2013).  Compare also Chapter 4.4.1.  "
+"about ECGI
+The European Corporate Governance Institute has been established to improve corpo-
+rate governance through fostering independent scientific research and related activities.
+The ECGI produces and disseminates high quality research while remaining close to the 
+concerns and interests of corporate, financial and public policy makers. It draws on the 
+expertise of scholars from numerous countries and bring together a critical mass of exper-
+tise and interest to bear on this important subject.
+The views expressed in this working paper are those of the authors, not those of the ECGI 
+or its members. 
+www.ecgi.org"
+"ECGI Working Paper Series in Law
+Editorial Board
+Editor  Luca Enriques , Allen & Overy Professor of Corporate Law,  
+ Faculty of Law, University of Oxford
+Consulting Editors John Coates , John F. Cogan, Jr. Professor of Law and   
+ Economics, Harvard Law School
+ Paul Davies , Senior Research Fellow, Centre for Commercial  
+ Law, Harris Manchester College, University of Oxford
+ Horst Eidenmüller , Freshfields Professor of Commercial Law,  
+ University of Oxford
+  Amir Licht,  Professor of Law, Radzyner Law School,   
+ Interdisciplinary Center Herzliya
+ Roberta Romano , Sterling Professor of Law and Director, Yale
+ Law School Center for the Study of Corporate Law, Yale Law
+ School
+Editorial Assistants : Tamas Barko , University of Mannheim 
+ Ulrich Keesen , University of Mannheim
+ Mengqiao Du , University of Mannheim
+ 
+www.ecgi.org\wp"
+"Electronic Access to the Working Paper Series
+The full set of ECGI working papers can be accessed through the Institute’s Web-site 
+(www.ecgi.org/wp) or SSRN:
+Finance Paper Series  http://www.ssrn.com/link/ECGI-Finance.html 
+Law Paper Series  http://www.ssrn.com/link/ECGI-Law.html 
+www.ecgi.org\wp"
